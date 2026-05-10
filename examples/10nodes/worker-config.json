@@ -3,18 +3,12 @@
       "ssh-user": "ubuntu",
       "ssh-key": "/home/ubuntu/.ssh/id_rsa",
       "sat-vnet": "sat-vnet",
-      "sat-vnet-super-cidr": "172.20.0.0/16"
+      "sat-vnet-super-cidr": "192.168.0.0/16"
   },
   "workers": {
       "host-1": {
-        "ip": "10.0.1.215",
-        "sat-vnet-cidr":"172.20.0.0/24",
-        "cpu": "2",
-        "mem": "2GiB"
-      },
-      "host-2": {
-        "ip": "10.0.1.144",
-        "sat-vnet-cidr":"172.20.1.0/24",
+        "ip": "192.168.248.30",
+        "sat-vnet-cidr":"192.168.0.0/24",
         "cpu": "2",
         "mem": "2GiB"
       }
