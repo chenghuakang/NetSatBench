@@ -147,7 +147,7 @@ Set worker IPs, SSH user/key, and worker resource/network fields.
 ### 4. Initialize worker environment
 
 ```bash
-python3 ./nsb.py system-init-docker --config ./examples/10nodes/workers-config.json
+python3 ./nsb.py system-init-docker --config ./examples/10nodes/worker-config.json
 ```
 
 ### 5. Initialize scenario state
