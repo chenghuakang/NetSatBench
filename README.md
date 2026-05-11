@@ -124,7 +124,7 @@ python3 -m pip install -r requirements.txt
 ### 2. Set Etcd environment
 
 ```bash
-export ETCD_HOST="192.168.248.30"
+export ETCD_HOST="export ETCD_HOST="127.0.0.1""
 export ETCD_PORT="2379"
 ```
 
