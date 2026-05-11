@@ -1,28 +1,14 @@
 {
-  "node-config-common":[
+  "node-config-common": [
     {
       "match-key": "type",
       "match-value": "satellite",
       "config-common": {
         "type": "undefined",
-        "n_antennas": 1,
-        "metadata": {
-          "link_bandwidth_Gbps": 5,
-          "link_loss_percent": 0,
-          "satellite_link_type": "Grid",
-          "link_policy": "LeastDelay",
-          "ip_version": "IPv4",
-          "deploy_machines":[
-            {
-              "IP": "192.168.248.30",
-              "port": 22,
-              "username": "root",
-              "password": "cheng2704"
-            }
-          ]
-        },
+        "n_antennas": 2,
+        "metadata": {},
         "image": "msvcbench/sat-container:latest",
-        "sidecars":[],
+        "sidecars": [],
         "cpu-request": "100m",
         "mem-request": "200MiB",
         "cpu-limit": "200m",
@@ -36,7 +22,7 @@
             "advertize-default-route": false
           },
           "auto-assign-ips": true,
-          "auto-assign-super-cidr":[
+          "auto-assign-super-cidr": [
             {
               "match-key": "type",
               "match-value": "satellite",
@@ -51,15 +37,10 @@
       "match-value": "gateway",
       "config-common": {
         "type": "undefined",
-        "n_antennas": 1,
-        "metadata": {
-          "sat_ground_bandwidth_Gbps": 5,
-          "sat_ground_loss_percent": 1,
-          "antenna_elevation_angle": 25,
-          "handover_policy": "instant handover"
-        },
+        "n_antennas": 2,
+        "metadata": {},
         "image": "msvcbench/sat-container:latest",
-        "sidecars":[],
+        "sidecars": [],
         "cpu-request": "100m",
         "mem-request": "200MiB",
         "cpu-limit": "200m",
@@ -73,7 +54,7 @@
             "advertize-default-route": false
           },
           "auto-assign-ips": true,
-          "auto-assign-super-cidr":[
+          "auto-assign-super-cidr": [
             {
               "match-key": "type",
               "match-value": "gateway",
@@ -88,15 +69,10 @@
       "match-value": "user",
       "config-common": {
         "type": "undefined",
-        "n_antennas": 1,
-        "metadata": {
-          "sat_ground_bandwidth_Gbps": 5,
-          "sat_ground_loss_percent": 1,
-          "antenna_elevation_angle": 25,
-          "handover_policy": "instant handover"
-        },
+        "n_antennas": 2,
+        "metadata": {},
         "image": "msvcbench/sat-container:latest",
-        "sidecars":[],
+        "sidecars": [],
         "cpu-request": "100m",
         "mem-request": "200MiB",
         "cpu-limit": "200m",
@@ -110,7 +86,7 @@
             "advertize-default-route": false
           },
           "auto-assign-ips": true,
-          "auto-assign-super-cidr":[
+          "auto-assign-super-cidr": [
             {
               "match-key": "type",
               "match-value": "user",
@@ -122,215 +98,157 @@
     }
   ],
   "epoch-config": {
-    "epoch-dir": "examples/starlink_25nodes/epochs",
-    "file-pattern": "NetSatBench-epoch*.json",
-    "duration_s": 100,
-    "step_s": 1
+    "epoch-dir": "examples/10nodes/epochs",
+    "file-pattern": "NetSatBench-epoch*.json"
   },
   "nodes": {
     "sat1": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 1, "sat_num_in_orbit": 1 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 1
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat2": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 1, "sat_num_in_orbit": 2 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 2
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat3": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 1, "sat_num_in_orbit": 3 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 3
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat4": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 1, "sat_num_in_orbit": 4 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 4
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat5": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 1, "sat_num_in_orbit": 5 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 5
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat6": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 2, "sat_num_in_orbit": 1 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 6
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat7": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 2, "sat_num_in_orbit": 2 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 7
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "sat8": {
       "type": "satellite",
       "metadata": {
-        "sat_config": { "sat_orbit": 2, "sat_num_in_orbit": 3 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat9": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 2, "sat_num_in_orbit": 4 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat10": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 2, "sat_num_in_orbit": 5 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat11": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 3, "sat_num_in_orbit": 1 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat12": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 3, "sat_num_in_orbit": 2 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat13": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 3, "sat_num_in_orbit": 3 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat14": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 3, "sat_num_in_orbit": 4 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat15": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 3, "sat_num_in_orbit": 5 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat16": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 4, "sat_num_in_orbit": 1 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat17": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 4, "sat_num_in_orbit": 2 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat18": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 4, "sat_num_in_orbit": 3 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat19": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 4, "sat_num_in_orbit": 4 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat20": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 4, "sat_num_in_orbit": 5 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat21": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 5, "sat_num_in_orbit": 1 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat22": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 5, "sat_num_in_orbit": 2 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat23": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 5, "sat_num_in_orbit": 3 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat24": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 5, "sat_num_in_orbit": 4 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
-      }
-    },
-    "sat25": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": { "sat_orbit": 5, "sat_num_in_orbit": 5 },
-        "shell": "starlink_shell1",
-        "shell_config": { "altitude": 550, "orbit_cycle": 5730, "inclination": 53, "phase_shift": 1, "number_of_orbit": 5, "number_of_satellite_per_orbit": 5 }
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 8
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 12,
+          "number_of_satellite_per_orbit": 49
+        }
       }
     },
     "grd1": {
       "type": "gateway",
-      "n_antennas": 1,
+      "n_antennas": 2,
       "cpu-request": "200m",
       "mem-request": "400MiB",
       "cpu-limit": "400m",
@@ -353,7 +271,7 @@
     },
     "usr1": {
       "type": "user",
-      "n_antennas": 1,
+      "n_antennas": 2,
       "metadata": {
         "location": {
           "latitude": 37.7749,
