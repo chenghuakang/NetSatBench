@@ -548,7 +548,7 @@ def main() -> int:
     for value, metadata in nodes:
         try:
             node_config = json.loads(value.decode("utf-8"))
-            if "eth0_ip" not in node_config:
+            if "eth0_ip" not in node_config and 'L3-config' not in node_config:
                 log.error(f"❌ Node config at {metadata.key.decode('utf-8')} is missing 'eth0_ip'. Ensure satellite system is running correctly.")
                 return 1
         except Exception as e:
