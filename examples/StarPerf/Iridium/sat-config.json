@@ -83,7 +83,7 @@
     }
   ],
   "epoch-config": {
-    "epoch-dir": "examples/StarPerf/Iridium/epochs",
+    "epoch-dir": "examples/StarPerf/Iridium/epochs-or-hops-ex",
     "file-pattern": "NetSatBench-epoch*.json"
   },
   "nodes": {
