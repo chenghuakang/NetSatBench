@@ -41,7 +41,7 @@
         "L3-config": {
           "enable-netem": true,
           "enable-routing": true,
-          "routing-module": "extra.routing.single_hop_v6",
+          "routing-module": "extra.routing.isisv6",
           "routing-metadata": {},
           "auto-assign-ips": true,
           "auto-assign-super-cidr": [
@@ -68,7 +68,7 @@
         "L3-config": {
           "enable-netem": true,
           "enable-routing": true,
-          "routing-module": "extra.routing.single_hop_v6",
+          "routing-module": "extra.routing.isisv6",
           "routing-metadata": {},
           "auto-assign-ips": true,
           "auto-assign-super-cidr": [
