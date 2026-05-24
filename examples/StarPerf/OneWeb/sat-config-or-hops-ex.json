@@ -10845,4 +10845,12 @@
     "epoch-dir": "examples/StarPerf/OneWeb/epochs-or-hops-ex",
     "file-pattern": "NetSatBench-epoch*.json"
   }
+  "workers": {
+    "host-1": {
+      "ip": "192.168.248.30",
+      "sat-vnet-cidr": "192.168.0.0/16",
+      "cpu": "4",
+      "mem": "14GB"
+    }
+  }
 }
