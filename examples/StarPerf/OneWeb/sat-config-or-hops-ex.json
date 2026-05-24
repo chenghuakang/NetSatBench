@@ -10844,7 +10844,7 @@
   "epoch-config": {
     "epoch-dir": "examples/StarPerf/OneWeb/epochs-or-hops-ex",
     "file-pattern": "NetSatBench-epoch*.json"
-  }
+  },
   "workers": {
     "host-1": {
       "ip": "192.168.248.30",
