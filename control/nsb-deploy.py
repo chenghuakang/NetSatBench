@@ -153,7 +153,7 @@ def recreate_and_run_container(
                 "--hostname", node_name,
                 "--net", worker_bridge,
                 "--privileged",
-                "--pull=always",
+                "--pull=missing",
                 "-e", f"NODE_NAME={node_name}",
                 "-e", f"ETCD_ENDPOINT={etcd_host}:{etcd_port}"
         ]

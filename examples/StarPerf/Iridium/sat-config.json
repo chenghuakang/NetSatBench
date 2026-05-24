@@ -82,10 +82,6 @@
       }
     }
   ],
-  "epoch-config": {
-    "epoch-dir": "examples/StarPerf/Iridium/epochs",
-    "file-pattern": "NetSatBench-epoch*.json"
-  },
   "nodes": {
     "sat1": {
       "type": "satellite",
@@ -1433,5 +1429,9 @@
         "Downlink_Ghz": 1.3
       }
     }
+  },
+  "epoch-config": {
+    "epoch-dir": "examples/StarPerf/Iridium/epochs",
+    "file-pattern": "NetSatBench-epoch*.json"
   }
 }
