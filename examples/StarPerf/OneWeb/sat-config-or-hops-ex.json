@@ -1,0 +1,4 @@
+"epoch-config": {
+  "epoch-dir": "examples/StarPerf/OneWeb/epochs-or-hops-ex",
+  "file-pattern": "NetSatBench-epoch*.json"
+}
