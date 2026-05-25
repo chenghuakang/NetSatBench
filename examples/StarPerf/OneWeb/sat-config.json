@@ -10727,7 +10727,7 @@
         "Downlink_Ghz": 1.3
       }
     },
-    "grd5": {
+    "grd4": {
       "type": "gateway",
       "metadata": {
         "location": {

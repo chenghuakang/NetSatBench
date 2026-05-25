@@ -3,7 +3,7 @@
   "links-del": [
     {
       "endpoint1": "sat87",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": 0,
       "loss": 0,
       "delay": 0
@@ -110,7 +110,7 @@
     },
     {
       "endpoint1": "sat133",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "174.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
@@ -180,7 +180,7 @@
     },
     {
       "endpoint1": "sat136",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "175.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
@@ -264,7 +264,7 @@
     },
     {
       "endpoint1": "sat183",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "177.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"

@@ -3,7 +3,7 @@
   "links-del": [
     {
       "endpoint1": "sat90",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": 0,
       "loss": 0,
       "delay": 0
@@ -215,7 +215,7 @@
     },
     {
       "endpoint1": "sat139",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "172.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"

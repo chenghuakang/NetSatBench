@@ -103,7 +103,7 @@
     },
     {
       "endpoint1": "sat130",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "195.0mbit",
       "loss": "0.0",
       "delay": "4.0ms"
@@ -215,7 +215,7 @@
     },
     {
       "endpoint1": "sat177",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "164.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"
@@ -236,7 +236,7 @@
     },
     {
       "endpoint1": "sat178",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "181.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"
@@ -271,7 +271,7 @@
     },
     {
       "endpoint1": "sat180",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "171.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"

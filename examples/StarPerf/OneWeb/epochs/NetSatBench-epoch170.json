@@ -67,7 +67,7 @@
     },
     {
       "endpoint1": "sat50",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "184.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"

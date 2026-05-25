@@ -3,7 +3,7 @@
   "links-del": [
     {
       "endpoint1": "sat88",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": 0,
       "loss": 0,
       "delay": 0
@@ -68,7 +68,7 @@
     },
     {
       "endpoint1": "sat86",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "169.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"
@@ -152,7 +152,7 @@
     },
     {
       "endpoint1": "sat134",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "176.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
@@ -187,7 +187,7 @@
     },
     {
       "endpoint1": "sat136",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "195.0mbit",
       "loss": "0.0",
       "delay": "4.0ms"
@@ -208,7 +208,7 @@
     },
     {
       "endpoint1": "sat137",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "174.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
@@ -313,7 +313,7 @@
     },
     {
       "endpoint1": "sat186",
-      "endpoint2": "grd5",
+      "endpoint2": "grd4",
       "rate": "163.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"

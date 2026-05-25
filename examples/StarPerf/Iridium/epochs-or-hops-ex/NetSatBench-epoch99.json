@@ -111,7 +111,7 @@
     "iperf3 -s -p 5206 -D",
     "iperf3 -s -p 5207 -D"
   ],
-  "grd5": [
+  "grd4": [
     "iperf3 -s -p 5201 -D",
     "iperf3 -s -p 5202 -D",
     "iperf3 -s -p 5203 -D",

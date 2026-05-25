@@ -41,6 +41,8 @@
   "links-add": [],
   "run": {
     "type:user": [
+      "/app/ping_to_csv.sh default 1200",
+      "/app/ping_to_csv.sh default 1200",
       "/app/ping_to_csv.sh default 1200"
     ]
   }
