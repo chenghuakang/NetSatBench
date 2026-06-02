@@ -1,84 +1,38 @@
 {
-  "time": "2023-10-01T00:32:25Z",
-  "links-del": [],
-  "links-update": [
-    {
-      "endpoint1": "sat1",
-      "endpoint2": "sat12",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "6.0ms"
-    },
-    {
-      "endpoint1": "sat10",
-      "endpoint2": "usr2",
-      "rate": "49.0mbit",
-      "loss": "0.0",
-      "delay": "4.0ms"
-    },
-    {
-      "endpoint1": "sat11",
-      "endpoint2": "grd2",
-      "rate": "214.0mbit",
-      "loss": "0.0",
-      "delay": "3.0ms"
-    },
-    {
-      "endpoint1": "sat12",
-      "endpoint2": "sat23",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "6.0ms"
-    },
-    {
-      "endpoint1": "sat21",
-      "endpoint2": "usr1",
-      "rate": "46.0mbit",
-      "loss": "0.0",
-      "delay": "4.0ms"
-    },
-    {
-      "endpoint1": "sat21",
-      "endpoint2": "usr3",
-      "rate": "45.0mbit",
-      "loss": "0.0",
-      "delay": "5.0ms"
-    },
-    {
-      "endpoint1": "sat22",
-      "endpoint2": "grd2",
-      "rate": "207.0mbit",
-      "loss": "0.0",
-      "delay": "4.0ms"
-    },
-    {
-      "endpoint1": "sat23",
-      "endpoint2": "sat34",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "6.0ms"
-    },
-    {
-      "endpoint1": "sat34",
-      "endpoint2": "sat45",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "6.0ms"
-    },
-    {
-      "endpoint1": "sat35",
-      "endpoint2": "grd3",
-      "rate": "220.0mbit",
-      "loss": "0.0",
-      "delay": "3.0ms"
-    },
-    {
-      "endpoint1": "sat45",
-      "endpoint2": "sat56",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "6.0ms"
-    }
-  ],
-  "links-add": []
+  "time": "2023-10-01T00:29:26Z",
+  "run": {
+    "sat23": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat33_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat12_1 2001:db8:101::7 200"
+    ],
+    "sat24": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat23_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat13_1 2001:db8:101::7 200"
+    ],
+    "sat25": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat24_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat14_1 2001:db8:101::7 200"
+    ],
+    "sat26": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat25_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat15_1 2001:db8:101::7 200"
+    ],
+    "sat27": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat26_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat16_1 2001:db8:101::7 200"
+    ],
+    "sat28": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat29_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat17_1 2001:db8:101::7 200"
+    ],
+    "sat29": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat30_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat18_1 2001:db8:101::7 200"
+    ],
+    "sat30": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat31_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat19_1 2001:db8:101::7 200"
+    ],
+    "sat31": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat32_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat20_1 2001:db8:101::7 200"
+    ],
+    "sat32": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat33_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat21_1 2001:db8:101::7 200"
+    ],
+    "sat33": [
+      "extra/routing/add_ipv6_route_ll.sh vl_grd2_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat22_1 2001:db8:101::7 200"
+    ]
+  }
 }

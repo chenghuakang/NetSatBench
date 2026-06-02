@@ -1,32 +1,81 @@
 {
-  "time": "2023-10-01T00:23:00Z",
+  "time": "2023-10-01T00:20:50Z",
   "links-del": [],
   "links-update": [
     {
       "endpoint1": "sat1",
-      "endpoint2": "grd2",
-      "rate": "218.0mbit",
-      "loss": "0.0",
-      "delay": "3.0ms"
-    },
-    {
-      "endpoint1": "sat11",
-      "endpoint2": "usr2",
-      "rate": "52.0mbit",
-      "loss": "0.0",
-      "delay": "4.0ms"
-    },
-    {
-      "endpoint1": "sat12",
       "endpoint2": "grd2",
       "rate": "210.0mbit",
       "loss": "0.0",
       "delay": "3.0ms"
     },
     {
+      "endpoint1": "sat3",
+      "endpoint2": "sat14",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "10.0ms"
+    },
+    {
+      "endpoint1": "sat12",
+      "endpoint2": "grd2",
+      "rate": "213.0mbit",
+      "loss": "0.0",
+      "delay": "3.0ms"
+    },
+    {
+      "endpoint1": "sat14",
+      "endpoint2": "sat25",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "10.0ms"
+    },
+    {
       "endpoint1": "sat22",
       "endpoint2": "usr6",
-      "rate": "63.0mbit",
+      "rate": "56.0mbit",
+      "loss": "0.0",
+      "delay": "3.0ms"
+    },
+    {
+      "endpoint1": "sat24",
+      "endpoint2": "grd1",
+      "rate": "201.0mbit",
+      "loss": "0.0",
+      "delay": "4.0ms"
+    },
+    {
+      "endpoint1": "sat25",
+      "endpoint2": "sat36",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "10.0ms"
+    },
+    {
+      "endpoint1": "sat36",
+      "endpoint2": "sat47",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "10.0ms"
+    },
+    {
+      "endpoint1": "sat36",
+      "endpoint2": "grd3",
+      "rate": "202.0mbit",
+      "loss": "0.0",
+      "delay": "4.0ms"
+    },
+    {
+      "endpoint1": "sat47",
+      "endpoint2": "sat58",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "10.0ms"
+    },
+    {
+      "endpoint1": "sat50",
+      "endpoint2": "grd4",
+      "rate": "209.0mbit",
       "loss": "0.0",
       "delay": "3.0ms"
     }

@@ -1,125 +1,35 @@
 {
-  "time": "2023-10-01T00:08:10Z",
+  "time": "2023-10-01T00:07:15Z",
   "links-del": [],
   "links-update": [
     {
-      "endpoint1": "sat4",
-      "endpoint2": "sat15",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "8.0ms"
-    },
-    {
-      "endpoint1": "sat12",
-      "endpoint2": "usr5",
-      "rate": "47.0mbit",
+      "endpoint1": "sat2",
+      "endpoint2": "usr2",
+      "rate": "50.0mbit",
       "loss": "0.0",
       "delay": "4.0ms"
     },
     {
-      "endpoint1": "sat15",
-      "endpoint2": "sat26",
-      "rate": "400.0mbit",
+      "endpoint1": "sat2",
+      "endpoint2": "usr3",
+      "rate": "42.0mbit",
       "loss": "0.0",
-      "delay": "8.0ms"
+      "delay": "5.0ms"
     },
     {
       "endpoint1": "sat26",
-      "endpoint2": "sat37",
-      "rate": "400.0mbit",
+      "endpoint2": "grd1",
+      "rate": "187.0mbit",
       "loss": "0.0",
-      "delay": "8.0ms"
-    },
-    {
-      "endpoint1": "sat37",
-      "endpoint2": "sat48",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "8.0ms"
-    },
-    {
-      "endpoint1": "sat48",
-      "endpoint2": "sat59",
-      "rate": "400.0mbit",
-      "loss": "0.0",
-      "delay": "8.0ms"
+      "delay": "5.0ms"
     },
     {
       "endpoint1": "sat51",
       "endpoint2": "grd4",
-      "rate": "201.0mbit",
+      "rate": "187.0mbit",
       "loss": "0.0",
-      "delay": "4.0ms"
+      "delay": "5.0ms"
     }
   ],
-  "links-add": [],
-  "run": {
-  "usr1": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5201 1200"
-  ],
-  "usr2": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5202 1200"
-  ],
-  "usr3": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5203 1200"
-  ],
-  "usr4": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5204 1200"
-  ],
-  "usr5": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5205 1200"
-  ],
-  "usr6": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5206 1200"
-  ],
-  "usr7": [
-    "sleep 5 && /app/iperf3_to_csv.sh default 5207 1200"
-  ],
-  "grd1": [
-    "iperf3 -s -p 5201 -D",
-    "iperf3 -s -p 5202 -D",
-    "iperf3 -s -p 5203 -D",
-    "iperf3 -s -p 5204 -D",
-    "iperf3 -s -p 5205 -D",
-    "iperf3 -s -p 5206 -D",
-    "iperf3 -s -p 5207 -D"
-  ],
-  "grd2": [
-    "iperf3 -s -p 5201 -D",
-    "iperf3 -s -p 5202 -D",
-    "iperf3 -s -p 5203 -D",
-    "iperf3 -s -p 5204 -D",
-    "iperf3 -s -p 5205 -D",
-    "iperf3 -s -p 5206 -D",
-    "iperf3 -s -p 5207 -D"
-  ],
-  "grd3": [
-    "iperf3 -s -p 5201 -D",
-    "iperf3 -s -p 5202 -D",
-    "iperf3 -s -p 5203 -D",
-    "iperf3 -s -p 5204 -D",
-    "iperf3 -s -p 5205 -D",
-    "iperf3 -s -p 5206 -D",
-    "iperf3 -s -p 5207 -D"
-  ],
-  "grd4": [
-    "iperf3 -s -p 5201 -D",
-    "iperf3 -s -p 5202 -D",
-    "iperf3 -s -p 5203 -D",
-    "iperf3 -s -p 5204 -D",
-    "iperf3 -s -p 5205 -D",
-    "iperf3 -s -p 5206 -D",
-    "iperf3 -s -p 5207 -D"
-  ],
-  "grd4": [
-    "iperf3 -s -p 5201 -D",
-    "iperf3 -s -p 5202 -D",
-    "iperf3 -s -p 5203 -D",
-    "iperf3 -s -p 5204 -D",
-    "iperf3 -s -p 5205 -D",
-    "iperf3 -s -p 5206 -D",
-    "iperf3 -s -p 5207 -D"
-  ]
-}
-  
+  "links-add": []
 }

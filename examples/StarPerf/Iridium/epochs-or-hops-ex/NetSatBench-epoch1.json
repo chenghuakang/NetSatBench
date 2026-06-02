@@ -61,7 +61,7 @@
       "delay": "4.0ms",
       "pos1": "-7.169250,32.715485,777.60",
       "pos2": "-3.703800,40.416800,0.00",
-      "expected_duration": null
+      "expected_duration": 315.0
     },
     {
       "endpoint1": "sat3",
@@ -291,7 +291,7 @@
       "delay": "3.0ms",
       "pos1": "22.830750,32.715485,777.60",
       "pos2": "23.727500,37.983800,0.00",
-      "expected_duration": null
+      "expected_duration": 275.0
     },
     {
       "endpoint1": "sat14",
@@ -1081,7 +1081,7 @@
       "delay": "3.0ms",
       "pos1": "-65.313515,-49.213677,792.43",
       "pos2": "-70.858000,-52.937500,0.00",
-      "expected_duration": null
+      "expected_duration": 245.0
     },
     {
       "endpoint1": "sat53",
@@ -1246,10 +1246,27 @@
   ],
   "run": {
     "type:gateway": [
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
       "/app/grd/start-agent-grd.sh"
     ],
     "type:user": [
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
       "/app/usr/start-agent-usr.sh"
+    ],
+    "usr1": [
+      "/app/ping_to_csv.sh grd2 1000",
+      "/app/ping_to_csv.sh grd2 1200 1",
+      "/app/ping_to_csv.sh grd2 1200 1"
     ]
   }
 }

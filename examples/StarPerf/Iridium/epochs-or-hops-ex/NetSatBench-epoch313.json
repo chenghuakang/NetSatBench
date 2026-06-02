@@ -1,29 +1,8 @@
 {
-  "time": "2023-10-01T00:26:00Z",
-  "links-del": [
-    {
-      "endpoint1": "sat24",
-      "endpoint2": "grd1",
-      "rate": 0,
-      "loss": 0,
-      "delay": 0
-    }
-  ],
-  "links-update": [
-    {
-      "endpoint1": "sat11",
-      "endpoint2": "usr2",
-      "rate": "43.0mbit",
-      "loss": "0.0",
-      "delay": "5.0ms"
-    },
-    {
-      "endpoint1": "sat49",
-      "endpoint2": "grd4",
-      "rate": "195.0mbit",
-      "loss": "0.0",
-      "delay": "4.0ms"
-    }
-  ],
-  "links-add": []
+  "time": "2023-10-01T00:23:43Z",
+  "run": {
+    "sat13": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat24_1 2001:db8:101::3 100; extra/routing/add_ipv6_route_ll.sh vl_sat12_1 2001:db8:101::3 200"
+    ]
+  }
 }

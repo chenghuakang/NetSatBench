@@ -1,4 +1,8 @@
 {
+"etcd": {
+    "host": "172.17.0.1",
+    "port": 2379
+  },
   "node-config-common": [
     {
       "match-key": "type",
