@@ -13,7 +13,7 @@ if [ "$TARGET" = "default" ]; then
     }
 fi
 DURATION="$2"
-INTERVAL="${3:-0.01}"
+INTERVAL="${3:-1}"
 SIZE="1200"
 OUTPUT="ping_${TARGET}.csv"
 RAW_OUTPUT="ping_${TARGET}.raw"
