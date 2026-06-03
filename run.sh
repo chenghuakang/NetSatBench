@@ -99,3 +99,53 @@ plt.tight_layout()
 plt.savefig('iridium_srv6_rtt_20min_3to1.png', dpi=300)
 print('📈 generate: iridium_srv6_rtt_20min_3to1.png')
 "
+python3 -c "
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+import numpy as np
+
+df = pd.read_csv('ping_usr1_to_grd2_1s_pure_correct.csv')
+total_rows = len(df)
+print(f'📊 read {total_rows} lines da’ta)
+
+if total_rows == 0:
+    print('❌ error: csv file is empty！’)
+    exit()
+
+df['time_min'] = np.linspace(0.0, 20.0, num=total_rows)
+
+fig, ax = plt.subplots(figsize=(15, 5))
+line, = ax.plot(df['time_min'], df['rtt_ms'], color='#1f77b4', linewidth=1.0, alpha=0.8, label='Measured RTT')
+
+ax.set_xlabel('Time (min)', fontsize=12, fontweight='bold')
+ax.set_ylabel('RTT (ms)', fontsize=12, fontweight='bold')
+ax.set_xlim(0, 20)
+ax.set_xticks(range(0, 21, 2))
+
+y_min, y_max = df['rtt_ms'].min(), df['rtt_ms'].max()
+if not pd.isna(y_min) and not pd.isna(y_max):
+    ax.set_ylim(max(0, y_min - 2), y_max + 2)
+
+ax.grid(True, linestyle='--', alpha=0.5)
+
+# 6. Right top
+topo_patch = mpatches.Patch(color='none', label='Link: user1 -> grd2')
+ax.legend(handles=[line, topo_patch], loc='upper right', frameon=True, fontsize=10, facecolor='#ffffff', edgecolor='#d3d3d3')
+
+# left top
+policy_text = (
+    '• SRv6-Policy\n'
+    '• Max-min visibility\n'
+)
+ax.text(0.02, 0.95, policy_text, 
+        transform=ax.transAxes, 
+        fontsize=10, 
+        verticalalignment='top', 
+        horizontalalignment='left',
+        bbox=dict(boxstyle='round,pad=0.5', facecolor='#fafafa', alpha=0.9, edgecolor='#e0e0e0'))
+
+plt.tight_layout()
+plt.savefig('iridium_srv6_rtt_20min_3to1.png', dpi=300)
+print('📈 ：iridium_srv6_rtt_20min_3to1.png')
+"
