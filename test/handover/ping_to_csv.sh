@@ -26,8 +26,6 @@ echo "timestamp,icmp_seq,ttl,rtt_ms" > "$OUTPUT"
 # Run ping and store raw output first
 #ping -i "$INTERVAL" "$TARGET" -c "$COUNT" -s "$SIZE" > "$RAW_OUTPUT"
 ping -i "$INTERVAL" "$TARGET" -c "$COUNT" -s "$SIZE" | tee "$RAW_OUTPUT" | stdbuf -oL awk -v outfile="$OUTPUT" '
-# Parse stored ping output after ping completes
-awk -v outfile="$OUTPUT" '
 /bytes from/ {
     # Extract RTT
     split($0,a,"time=");
