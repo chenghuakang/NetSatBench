@@ -1,0 +1,5017 @@
+{
+  "NetSatBench-epoch1.json": [
+    {
+      "name": "sat1",
+      "updates": 132
+    },
+    {
+      "name": "sat10",
+      "updates": 132
+    },
+    {
+      "name": "sat11",
+      "updates": 132
+    },
+    {
+      "name": "sat12",
+      "updates": 132
+    },
+    {
+      "name": "sat13",
+      "updates": 132
+    },
+    {
+      "name": "sat14",
+      "updates": 132
+    },
+    {
+      "name": "sat15",
+      "updates": 132
+    },
+    {
+      "name": "sat16",
+      "updates": 132
+    },
+    {
+      "name": "sat17",
+      "updates": 132
+    },
+    {
+      "name": "sat18",
+      "updates": 132
+    },
+    {
+      "name": "sat19",
+      "updates": 132
+    },
+    {
+      "name": "sat2",
+      "updates": 132
+    },
+    {
+      "name": "sat20",
+      "updates": 132
+    },
+    {
+      "name": "sat21",
+      "updates": 132
+    },
+    {
+      "name": "sat22",
+      "updates": 132
+    },
+    {
+      "name": "sat23",
+      "updates": 132
+    },
+    {
+      "name": "sat24",
+      "updates": 132
+    },
+    {
+      "name": "sat25",
+      "updates": 132
+    },
+    {
+      "name": "sat26",
+      "updates": 132
+    },
+    {
+      "name": "sat27",
+      "updates": 132
+    },
+    {
+      "name": "sat28",
+      "updates": 132
+    },
+    {
+      "name": "sat29",
+      "updates": 132
+    },
+    {
+      "name": "sat3",
+      "updates": 132
+    },
+    {
+      "name": "sat30",
+      "updates": 132
+    },
+    {
+      "name": "sat31",
+      "updates": 132
+    },
+    {
+      "name": "sat32",
+      "updates": 132
+    },
+    {
+      "name": "sat33",
+      "updates": 132
+    },
+    {
+      "name": "sat34",
+      "updates": 132
+    },
+    {
+      "name": "sat35",
+      "updates": 132
+    },
+    {
+      "name": "sat36",
+      "updates": 132
+    },
+    {
+      "name": "sat37",
+      "updates": 132
+    },
+    {
+      "name": "sat38",
+      "updates": 132
+    },
+    {
+      "name": "sat39",
+      "updates": 132
+    },
+    {
+      "name": "sat4",
+      "updates": 132
+    },
+    {
+      "name": "sat40",
+      "updates": 132
+    },
+    {
+      "name": "sat41",
+      "updates": 132
+    },
+    {
+      "name": "sat42",
+      "updates": 132
+    },
+    {
+      "name": "sat43",
+      "updates": 132
+    },
+    {
+      "name": "sat44",
+      "updates": 132
+    },
+    {
+      "name": "sat45",
+      "updates": 132
+    },
+    {
+      "name": "sat46",
+      "updates": 132
+    },
+    {
+      "name": "sat47",
+      "updates": 132
+    },
+    {
+      "name": "sat48",
+      "updates": 132
+    },
+    {
+      "name": "sat49",
+      "updates": 132
+    },
+    {
+      "name": "sat5",
+      "updates": 132
+    },
+    {
+      "name": "sat50",
+      "updates": 132
+    },
+    {
+      "name": "sat51",
+      "updates": 132
+    },
+    {
+      "name": "sat52",
+      "updates": 132
+    },
+    {
+      "name": "sat53",
+      "updates": 132
+    },
+    {
+      "name": "sat54",
+      "updates": 132
+    },
+    {
+      "name": "sat55",
+      "updates": 132
+    },
+    {
+      "name": "sat56",
+      "updates": 132
+    },
+    {
+      "name": "sat57",
+      "updates": 132
+    },
+    {
+      "name": "sat58",
+      "updates": 132
+    },
+    {
+      "name": "sat59",
+      "updates": 132
+    },
+    {
+      "name": "sat6",
+      "updates": 132
+    },
+    {
+      "name": "sat60",
+      "updates": 132
+    },
+    {
+      "name": "sat61",
+      "updates": 132
+    },
+    {
+      "name": "sat62",
+      "updates": 132
+    },
+    {
+      "name": "sat63",
+      "updates": 132
+    },
+    {
+      "name": "sat64",
+      "updates": 132
+    },
+    {
+      "name": "sat65",
+      "updates": 132
+    },
+    {
+      "name": "sat66",
+      "updates": 132
+    },
+    {
+      "name": "sat7",
+      "updates": 132
+    },
+    {
+      "name": "sat8",
+      "updates": 132
+    },
+    {
+      "name": "sat9",
+      "updates": 132
+    }
+  ],
+  "NetSatBench-epoch2.json": [],
+  "NetSatBench-epoch3.json": [],
+  "NetSatBench-epoch4.json": [],
+  "NetSatBench-epoch5.json": [],
+  "NetSatBench-epoch6.json": [],
+  "NetSatBench-epoch7.json": [],
+  "NetSatBench-epoch8.json": [],
+  "NetSatBench-epoch9.json": [],
+  "NetSatBench-epoch10.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch11.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch12.json": [],
+  "NetSatBench-epoch13.json": [],
+  "NetSatBench-epoch14.json": [],
+  "NetSatBench-epoch15.json": [],
+  "NetSatBench-epoch16.json": [],
+  "NetSatBench-epoch17.json": [],
+  "NetSatBench-epoch18.json": [],
+  "NetSatBench-epoch19.json": [],
+  "NetSatBench-epoch20.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch21.json": [],
+  "NetSatBench-epoch22.json": [],
+  "NetSatBench-epoch23.json": [],
+  "NetSatBench-epoch24.json": [],
+  "NetSatBench-epoch25.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch26.json": [],
+  "NetSatBench-epoch27.json": [],
+  "NetSatBench-epoch28.json": [],
+  "NetSatBench-epoch29.json": [],
+  "NetSatBench-epoch30.json": [],
+  "NetSatBench-epoch31.json": [],
+  "NetSatBench-epoch32.json": [],
+  "NetSatBench-epoch33.json": [
+    {
+      "name": "sat15",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch34.json": [],
+  "NetSatBench-epoch35.json": [
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch36.json": [],
+  "NetSatBench-epoch37.json": [],
+  "NetSatBench-epoch38.json": [],
+  "NetSatBench-epoch39.json": [],
+  "NetSatBench-epoch40.json": [],
+  "NetSatBench-epoch41.json": [],
+  "NetSatBench-epoch42.json": [],
+  "NetSatBench-epoch43.json": [],
+  "NetSatBench-epoch44.json": [],
+  "NetSatBench-epoch45.json": [],
+  "NetSatBench-epoch46.json": [],
+  "NetSatBench-epoch47.json": [],
+  "NetSatBench-epoch48.json": [],
+  "NetSatBench-epoch49.json": [],
+  "NetSatBench-epoch50.json": [],
+  "NetSatBench-epoch51.json": [],
+  "NetSatBench-epoch52.json": [],
+  "NetSatBench-epoch53.json": [],
+  "NetSatBench-epoch54.json": [],
+  "NetSatBench-epoch55.json": [],
+  "NetSatBench-epoch56.json": [],
+  "NetSatBench-epoch57.json": [],
+  "NetSatBench-epoch58.json": [],
+  "NetSatBench-epoch59.json": [],
+  "NetSatBench-epoch60.json": [],
+  "NetSatBench-epoch61.json": [],
+  "NetSatBench-epoch62.json": [],
+  "NetSatBench-epoch63.json": [],
+  "NetSatBench-epoch64.json": [],
+  "NetSatBench-epoch65.json": [],
+  "NetSatBench-epoch66.json": [],
+  "NetSatBench-epoch67.json": [],
+  "NetSatBench-epoch68.json": [],
+  "NetSatBench-epoch69.json": [],
+  "NetSatBench-epoch70.json": [],
+  "NetSatBench-epoch71.json": [],
+  "NetSatBench-epoch72.json": [],
+  "NetSatBench-epoch73.json": [],
+  "NetSatBench-epoch74.json": [],
+  "NetSatBench-epoch75.json": [],
+  "NetSatBench-epoch76.json": [],
+  "NetSatBench-epoch77.json": [],
+  "NetSatBench-epoch78.json": [],
+  "NetSatBench-epoch79.json": [],
+  "NetSatBench-epoch80.json": [],
+  "NetSatBench-epoch81.json": [],
+  "NetSatBench-epoch82.json": [],
+  "NetSatBench-epoch83.json": [],
+  "NetSatBench-epoch84.json": [],
+  "NetSatBench-epoch85.json": [],
+  "NetSatBench-epoch86.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch87.json": [],
+  "NetSatBench-epoch88.json": [],
+  "NetSatBench-epoch89.json": [],
+  "NetSatBench-epoch90.json": [],
+  "NetSatBench-epoch91.json": [],
+  "NetSatBench-epoch92.json": [],
+  "NetSatBench-epoch93.json": [],
+  "NetSatBench-epoch94.json": [],
+  "NetSatBench-epoch95.json": [],
+  "NetSatBench-epoch96.json": [],
+  "NetSatBench-epoch97.json": [],
+  "NetSatBench-epoch98.json": [],
+  "NetSatBench-epoch99.json": [],
+  "NetSatBench-epoch100.json": [],
+  "NetSatBench-epoch101.json": [],
+  "NetSatBench-epoch102.json": [],
+  "NetSatBench-epoch103.json": [],
+  "NetSatBench-epoch104.json": [],
+  "NetSatBench-epoch105.json": [],
+  "NetSatBench-epoch106.json": [],
+  "NetSatBench-epoch107.json": [],
+  "NetSatBench-epoch108.json": [],
+  "NetSatBench-epoch109.json": [],
+  "NetSatBench-epoch110.json": [],
+  "NetSatBench-epoch111.json": [],
+  "NetSatBench-epoch112.json": [],
+  "NetSatBench-epoch113.json": [],
+  "NetSatBench-epoch114.json": [],
+  "NetSatBench-epoch115.json": [],
+  "NetSatBench-epoch116.json": [],
+  "NetSatBench-epoch117.json": [],
+  "NetSatBench-epoch118.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch119.json": [],
+  "NetSatBench-epoch120.json": [],
+  "NetSatBench-epoch121.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch122.json": [],
+  "NetSatBench-epoch123.json": [],
+  "NetSatBench-epoch124.json": [],
+  "NetSatBench-epoch125.json": [],
+  "NetSatBench-epoch126.json": [],
+  "NetSatBench-epoch127.json": [],
+  "NetSatBench-epoch128.json": [],
+  "NetSatBench-epoch129.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch130.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch131.json": [],
+  "NetSatBench-epoch132.json": [],
+  "NetSatBench-epoch133.json": [],
+  "NetSatBench-epoch134.json": [],
+  "NetSatBench-epoch135.json": [],
+  "NetSatBench-epoch136.json": [],
+  "NetSatBench-epoch137.json": [],
+  "NetSatBench-epoch138.json": [],
+  "NetSatBench-epoch139.json": [],
+  "NetSatBench-epoch140.json": [],
+  "NetSatBench-epoch141.json": [
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch142.json": [],
+  "NetSatBench-epoch143.json": [],
+  "NetSatBench-epoch144.json": [],
+  "NetSatBench-epoch145.json": [],
+  "NetSatBench-epoch146.json": [],
+  "NetSatBench-epoch147.json": [
+    {
+      "name": "sat14",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch148.json": [],
+  "NetSatBench-epoch149.json": [],
+  "NetSatBench-epoch150.json": [],
+  "NetSatBench-epoch151.json": [],
+  "NetSatBench-epoch152.json": [],
+  "NetSatBench-epoch153.json": [],
+  "NetSatBench-epoch154.json": [],
+  "NetSatBench-epoch155.json": [],
+  "NetSatBench-epoch156.json": [],
+  "NetSatBench-epoch157.json": [],
+  "NetSatBench-epoch158.json": [],
+  "NetSatBench-epoch159.json": [],
+  "NetSatBench-epoch160.json": [],
+  "NetSatBench-epoch161.json": [],
+  "NetSatBench-epoch162.json": [],
+  "NetSatBench-epoch163.json": [],
+  "NetSatBench-epoch164.json": [],
+  "NetSatBench-epoch165.json": [],
+  "NetSatBench-epoch166.json": [],
+  "NetSatBench-epoch167.json": [],
+  "NetSatBench-epoch168.json": [],
+  "NetSatBench-epoch169.json": [],
+  "NetSatBench-epoch170.json": [],
+  "NetSatBench-epoch171.json": [],
+  "NetSatBench-epoch172.json": [],
+  "NetSatBench-epoch173.json": [],
+  "NetSatBench-epoch174.json": [],
+  "NetSatBench-epoch175.json": [],
+  "NetSatBench-epoch176.json": [],
+  "NetSatBench-epoch177.json": [],
+  "NetSatBench-epoch178.json": [],
+  "NetSatBench-epoch179.json": [],
+  "NetSatBench-epoch180.json": [],
+  "NetSatBench-epoch181.json": [],
+  "NetSatBench-epoch182.json": [],
+  "NetSatBench-epoch183.json": [],
+  "NetSatBench-epoch184.json": [],
+  "NetSatBench-epoch185.json": [],
+  "NetSatBench-epoch186.json": [],
+  "NetSatBench-epoch187.json": [],
+  "NetSatBench-epoch188.json": [],
+  "NetSatBench-epoch189.json": [],
+  "NetSatBench-epoch190.json": [],
+  "NetSatBench-epoch191.json": [],
+  "NetSatBench-epoch192.json": [],
+  "NetSatBench-epoch193.json": [],
+  "NetSatBench-epoch194.json": [],
+  "NetSatBench-epoch195.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch196.json": [],
+  "NetSatBench-epoch197.json": [],
+  "NetSatBench-epoch198.json": [],
+  "NetSatBench-epoch199.json": [],
+  "NetSatBench-epoch200.json": [],
+  "NetSatBench-epoch201.json": [],
+  "NetSatBench-epoch202.json": [],
+  "NetSatBench-epoch203.json": [],
+  "NetSatBench-epoch204.json": [],
+  "NetSatBench-epoch205.json": [],
+  "NetSatBench-epoch206.json": [],
+  "NetSatBench-epoch207.json": [],
+  "NetSatBench-epoch208.json": [],
+  "NetSatBench-epoch209.json": [],
+  "NetSatBench-epoch210.json": [],
+  "NetSatBench-epoch211.json": [],
+  "NetSatBench-epoch212.json": [],
+  "NetSatBench-epoch213.json": [],
+  "NetSatBench-epoch214.json": [],
+  "NetSatBench-epoch215.json": [],
+  "NetSatBench-epoch216.json": [],
+  "NetSatBench-epoch217.json": [],
+  "NetSatBench-epoch218.json": [],
+  "NetSatBench-epoch219.json": [],
+  "NetSatBench-epoch220.json": [],
+  "NetSatBench-epoch221.json": [],
+  "NetSatBench-epoch222.json": [],
+  "NetSatBench-epoch223.json": [],
+  "NetSatBench-epoch224.json": [],
+  "NetSatBench-epoch225.json": [],
+  "NetSatBench-epoch226.json": [],
+  "NetSatBench-epoch227.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch228.json": [],
+  "NetSatBench-epoch229.json": [],
+  "NetSatBench-epoch230.json": [],
+  "NetSatBench-epoch231.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch232.json": [],
+  "NetSatBench-epoch233.json": [],
+  "NetSatBench-epoch234.json": [],
+  "NetSatBench-epoch235.json": [],
+  "NetSatBench-epoch236.json": [],
+  "NetSatBench-epoch237.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch238.json": [],
+  "NetSatBench-epoch239.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch240.json": [],
+  "NetSatBench-epoch241.json": [],
+  "NetSatBench-epoch242.json": [],
+  "NetSatBench-epoch243.json": [],
+  "NetSatBench-epoch244.json": [],
+  "NetSatBench-epoch245.json": [],
+  "NetSatBench-epoch246.json": [],
+  "NetSatBench-epoch247.json": [
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch248.json": [],
+  "NetSatBench-epoch249.json": [],
+  "NetSatBench-epoch250.json": [],
+  "NetSatBench-epoch251.json": [],
+  "NetSatBench-epoch252.json": [],
+  "NetSatBench-epoch253.json": [],
+  "NetSatBench-epoch254.json": [],
+  "NetSatBench-epoch255.json": [],
+  "NetSatBench-epoch256.json": [],
+  "NetSatBench-epoch257.json": [],
+  "NetSatBench-epoch258.json": [],
+  "NetSatBench-epoch259.json": [],
+  "NetSatBench-epoch260.json": [],
+  "NetSatBench-epoch261.json": [],
+  "NetSatBench-epoch262.json": [
+    {
+      "name": "sat13",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch263.json": [],
+  "NetSatBench-epoch264.json": [],
+  "NetSatBench-epoch265.json": [],
+  "NetSatBench-epoch266.json": [],
+  "NetSatBench-epoch267.json": [],
+  "NetSatBench-epoch268.json": [],
+  "NetSatBench-epoch269.json": [],
+  "NetSatBench-epoch270.json": [],
+  "NetSatBench-epoch271.json": [],
+  "NetSatBench-epoch272.json": [],
+  "NetSatBench-epoch273.json": [],
+  "NetSatBench-epoch274.json": [],
+  "NetSatBench-epoch275.json": [],
+  "NetSatBench-epoch276.json": [],
+  "NetSatBench-epoch277.json": [],
+  "NetSatBench-epoch278.json": [],
+  "NetSatBench-epoch279.json": [],
+  "NetSatBench-epoch280.json": [],
+  "NetSatBench-epoch281.json": [],
+  "NetSatBench-epoch282.json": [],
+  "NetSatBench-epoch283.json": [],
+  "NetSatBench-epoch284.json": [],
+  "NetSatBench-epoch285.json": [],
+  "NetSatBench-epoch286.json": [],
+  "NetSatBench-epoch287.json": [],
+  "NetSatBench-epoch288.json": [],
+  "NetSatBench-epoch289.json": [],
+  "NetSatBench-epoch290.json": [],
+  "NetSatBench-epoch291.json": [],
+  "NetSatBench-epoch292.json": [],
+  "NetSatBench-epoch293.json": [],
+  "NetSatBench-epoch294.json": [],
+  "NetSatBench-epoch295.json": [],
+  "NetSatBench-epoch296.json": [],
+  "NetSatBench-epoch297.json": [],
+  "NetSatBench-epoch298.json": [],
+  "NetSatBench-epoch299.json": [],
+  "NetSatBench-epoch300.json": [],
+  "NetSatBench-epoch301.json": [],
+  "NetSatBench-epoch302.json": [],
+  "NetSatBench-epoch303.json": [],
+  "NetSatBench-epoch304.json": [],
+  "NetSatBench-epoch305.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch306.json": [],
+  "NetSatBench-epoch307.json": [],
+  "NetSatBench-epoch308.json": [],
+  "NetSatBench-epoch309.json": [],
+  "NetSatBench-epoch310.json": [],
+  "NetSatBench-epoch311.json": [],
+  "NetSatBench-epoch312.json": [],
+  "NetSatBench-epoch313.json": [],
+  "NetSatBench-epoch314.json": [],
+  "NetSatBench-epoch315.json": [],
+  "NetSatBench-epoch316.json": [],
+  "NetSatBench-epoch317.json": [],
+  "NetSatBench-epoch318.json": [],
+  "NetSatBench-epoch319.json": [],
+  "NetSatBench-epoch320.json": [],
+  "NetSatBench-epoch321.json": [],
+  "NetSatBench-epoch322.json": [],
+  "NetSatBench-epoch323.json": [],
+  "NetSatBench-epoch324.json": [],
+  "NetSatBench-epoch325.json": [],
+  "NetSatBench-epoch326.json": [],
+  "NetSatBench-epoch327.json": [],
+  "NetSatBench-epoch328.json": [],
+  "NetSatBench-epoch329.json": [],
+  "NetSatBench-epoch330.json": [],
+  "NetSatBench-epoch331.json": [],
+  "NetSatBench-epoch332.json": [],
+  "NetSatBench-epoch333.json": [],
+  "NetSatBench-epoch334.json": [],
+  "NetSatBench-epoch335.json": [],
+  "NetSatBench-epoch336.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch337.json": [],
+  "NetSatBench-epoch338.json": [],
+  "NetSatBench-epoch339.json": [],
+  "NetSatBench-epoch340.json": [],
+  "NetSatBench-epoch341.json": [],
+  "NetSatBench-epoch342.json": [
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch343.json": [],
+  "NetSatBench-epoch344.json": [],
+  "NetSatBench-epoch345.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch346.json": [],
+  "NetSatBench-epoch347.json": [],
+  "NetSatBench-epoch348.json": [
+    {
+      "name": "sat1",
+      "updates": 2
+    },
+    {
+      "name": "sat10",
+      "updates": 2
+    },
+    {
+      "name": "sat11",
+      "updates": 2
+    },
+    {
+      "name": "sat12",
+      "updates": 2
+    },
+    {
+      "name": "sat13",
+      "updates": 2
+    },
+    {
+      "name": "sat14",
+      "updates": 2
+    },
+    {
+      "name": "sat15",
+      "updates": 2
+    },
+    {
+      "name": "sat16",
+      "updates": 2
+    },
+    {
+      "name": "sat17",
+      "updates": 2
+    },
+    {
+      "name": "sat18",
+      "updates": 2
+    },
+    {
+      "name": "sat19",
+      "updates": 2
+    },
+    {
+      "name": "sat2",
+      "updates": 2
+    },
+    {
+      "name": "sat20",
+      "updates": 2
+    },
+    {
+      "name": "sat21",
+      "updates": 2
+    },
+    {
+      "name": "sat22",
+      "updates": 2
+    },
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat3",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    },
+    {
+      "name": "sat34",
+      "updates": 2
+    },
+    {
+      "name": "sat35",
+      "updates": 2
+    },
+    {
+      "name": "sat36",
+      "updates": 2
+    },
+    {
+      "name": "sat37",
+      "updates": 2
+    },
+    {
+      "name": "sat38",
+      "updates": 2
+    },
+    {
+      "name": "sat39",
+      "updates": 2
+    },
+    {
+      "name": "sat4",
+      "updates": 2
+    },
+    {
+      "name": "sat40",
+      "updates": 2
+    },
+    {
+      "name": "sat41",
+      "updates": 2
+    },
+    {
+      "name": "sat42",
+      "updates": 2
+    },
+    {
+      "name": "sat43",
+      "updates": 2
+    },
+    {
+      "name": "sat44",
+      "updates": 2
+    },
+    {
+      "name": "sat45",
+      "updates": 2
+    },
+    {
+      "name": "sat46",
+      "updates": 2
+    },
+    {
+      "name": "sat47",
+      "updates": 2
+    },
+    {
+      "name": "sat48",
+      "updates": 2
+    },
+    {
+      "name": "sat49",
+      "updates": 2
+    },
+    {
+      "name": "sat5",
+      "updates": 2
+    },
+    {
+      "name": "sat50",
+      "updates": 2
+    },
+    {
+      "name": "sat51",
+      "updates": 2
+    },
+    {
+      "name": "sat52",
+      "updates": 2
+    },
+    {
+      "name": "sat53",
+      "updates": 2
+    },
+    {
+      "name": "sat54",
+      "updates": 2
+    },
+    {
+      "name": "sat55",
+      "updates": 2
+    },
+    {
+      "name": "sat56",
+      "updates": 2
+    },
+    {
+      "name": "sat57",
+      "updates": 2
+    },
+    {
+      "name": "sat58",
+      "updates": 2
+    },
+    {
+      "name": "sat59",
+      "updates": 2
+    },
+    {
+      "name": "sat6",
+      "updates": 2
+    },
+    {
+      "name": "sat60",
+      "updates": 2
+    },
+    {
+      "name": "sat61",
+      "updates": 2
+    },
+    {
+      "name": "sat62",
+      "updates": 2
+    },
+    {
+      "name": "sat63",
+      "updates": 2
+    },
+    {
+      "name": "sat64",
+      "updates": 2
+    },
+    {
+      "name": "sat65",
+      "updates": 2
+    },
+    {
+      "name": "sat66",
+      "updates": 2
+    },
+    {
+      "name": "sat7",
+      "updates": 2
+    },
+    {
+      "name": "sat8",
+      "updates": 2
+    },
+    {
+      "name": "sat9",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch349.json": [],
+  "NetSatBench-epoch350.json": [],
+  "NetSatBench-epoch351.json": [],
+  "NetSatBench-epoch352.json": [],
+  "NetSatBench-epoch353.json": [],
+  "NetSatBench-epoch354.json": [
+    {
+      "name": "sat23",
+      "updates": 2
+    },
+    {
+      "name": "sat24",
+      "updates": 2
+    },
+    {
+      "name": "sat25",
+      "updates": 2
+    },
+    {
+      "name": "sat26",
+      "updates": 2
+    },
+    {
+      "name": "sat27",
+      "updates": 2
+    },
+    {
+      "name": "sat28",
+      "updates": 2
+    },
+    {
+      "name": "sat29",
+      "updates": 2
+    },
+    {
+      "name": "sat30",
+      "updates": 2
+    },
+    {
+      "name": "sat31",
+      "updates": 2
+    },
+    {
+      "name": "sat32",
+      "updates": 2
+    },
+    {
+      "name": "sat33",
+      "updates": 2
+    }
+  ],
+  "NetSatBench-epoch355.json": [],
+  "NetSatBench-epoch356.json": [],
+  "NetSatBench-epoch357.json": [],
+  "NetSatBench-epoch358.json": [],
+  "NetSatBench-epoch359.json": [],
+  "NetSatBench-epoch360.json": []
+}
