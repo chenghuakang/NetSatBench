@@ -66,10 +66,5 @@
       "delay": "4.0ms"
     }
   ],
-  "links-add": [],
-  "run": {
-    "usr1": [
-      "/app/ping_to_csv.sh grd2 1200 1"
-    ]
-  }
+  "links-add": []
 }

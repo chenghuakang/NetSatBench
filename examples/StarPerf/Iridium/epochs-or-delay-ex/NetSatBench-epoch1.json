@@ -1243,13 +1243,5 @@
       "pos2": "138.205161,-32.916572,785.73",
       "expected_duration": null
     }
-  ],
-  "run": {
-    "type:gateway": [
-      "/app/grd/start-agent-grd.sh"
-    ],
-    "type:user": [
-      "/app/usr/start-agent-usr.sh"
-    ]
-  }
+  ]
 }
