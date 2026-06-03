@@ -19,12 +19,13 @@ OUTPUT="ping_${TARGET}.csv"
 RAW_OUTPUT="ping_${TARGET}.raw"
 COUNT="$(awk -v duration="$DURATION" -v interval="$INTERVAL" 'BEGIN { print int(duration / interval) }')"
 
+
 # Write CSV header
 echo "timestamp,icmp_seq,ttl,rtt_ms" > "$OUTPUT"
 
 # Run ping and store raw output first
-ping -i "$INTERVAL" "$TARGET" -c "$COUNT" -s "$SIZE" > "$RAW_OUTPUT"
-
+#ping -i "$INTERVAL" "$TARGET" -c "$COUNT" -s "$SIZE" > "$RAW_OUTPUT"
+ping -i "$INTERVAL" "$TARGET" -c "$COUNT" -s "$SIZE" | tee "$RAW_OUTPUT" | stdbuf -oL awk -v outfile="$OUTPUT" '
 # Parse stored ping output after ping completes
 awk -v outfile="$OUTPUT" '
 /bytes from/ {
