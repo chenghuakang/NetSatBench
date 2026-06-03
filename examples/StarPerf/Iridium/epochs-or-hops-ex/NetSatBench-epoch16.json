@@ -78,7 +78,8 @@
       "/app/ping_to_csv.sh grd4 1200",
       "/app/ping_to_csv.sh grd2 1200",
       "/app/ping_to_csv.sh grd2 1200",
-      "/app/ping_to_csv.sh grd2 1200"
+      "/app/ping_to_csv.sh grd2 1200",
+      "/app/ping_to_csv.sh grd2 1200 1"
     ]
   }
 }
