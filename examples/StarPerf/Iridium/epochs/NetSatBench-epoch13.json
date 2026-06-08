@@ -66,5 +66,10 @@
       "delay": "4.0ms"
     }
   ],
-  "links-add": []
+  "links-add": [],
+  "run": {
+    "type:user": [
+      "bash /app/ping_to_csv.sh default 7200 1"
+    ]
+  }
 }

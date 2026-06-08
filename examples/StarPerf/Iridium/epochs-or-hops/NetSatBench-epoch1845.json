@@ -1,0 +1,8 @@
+{
+  "time": "2023-10-01T02:20:21Z",
+  "run": {
+    "sat33": [
+      "extra/routing/add_ipv6_route_ll.sh vl_grd1_1 2001:db8:101::3 100; extra/routing/add_ipv6_route_ll.sh vl_sat44_1 2001:db8:101::3 200"
+    ]
+  }
+}

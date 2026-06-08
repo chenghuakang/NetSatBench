@@ -1119,5 +1119,27 @@
       "pos1": "132.673798,-65.391335,798.22",
       "pos2": "138.205161,-32.916572,785.73"
     }
-  ]
+  ],
+  "run": {
+    "type:gateway": [
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh"
+    ],
+    "type:user": [
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh"
+    ]
+  }
 }

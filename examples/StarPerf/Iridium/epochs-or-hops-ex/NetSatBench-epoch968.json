@@ -1,0 +1,32 @@
+{
+  "time": "2023-10-01T01:14:15Z",
+  "links-del": [],
+  "links-update": [
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "usr7",
+      "rate": "59.0mbit",
+      "loss": "0.0",
+      "delay": "3.0ms"
+    },
+    {
+      "endpoint1": "sat17",
+      "endpoint2": "grd2",
+      "rate": "196.0mbit",
+      "loss": "0.0",
+      "delay": "4.0ms"
+    }
+  ],
+  "links-add": [
+    {
+      "endpoint1": "sat28",
+      "endpoint2": "grd2",
+      "rate": "186.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms",
+      "pos1": "41.636251,69.708297,785.39",
+      "pos2": "15.397000,78.228900,0.00",
+      "expected_duration": 300.0
+    }
+  ]
+}
