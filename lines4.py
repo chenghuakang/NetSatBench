@@ -18,7 +18,7 @@ datasets = [
         'color': '#2ca02c'  
     },
     {
-        'file': 'test_final7/ping_usr1_to_grd2_1s_pure_correct.csv’,  
+        'file': 'test_final7/ping_usr1_to_grd2_1s_pure_correct.csv',  
         'label': 'Max-min visibility', 
         'color': '#d62728'  
     }
