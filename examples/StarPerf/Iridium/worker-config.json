@@ -1,0 +1,16 @@
+{
+  "workers-common": {
+      "ssh-user": "chenghua",
+      "ssh-key": "/home/chenghua/.ssh/id_rsa",
+      "sat-vnet": "sat-vnet",
+      "sat-vnet-super-cidr": "172.28.0.0/16"
+  },
+  "workers": {
+      "host-1": {
+        "ip": "192.168.200.132",
+        "sat-vnet-cidr":"172.28.0.0/18",
+        "cpu": "8",
+        "mem": "24GiB"
+      }
+  }
+}
