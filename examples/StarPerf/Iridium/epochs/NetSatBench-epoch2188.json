@@ -1,0 +1,16 @@
+{
+  "time": "2023-10-01T03:02:15Z",
+  "links-del": [],
+  "links-update": [],
+  "links-add": [
+    {
+      "endpoint1": "sat26",
+      "endpoint2": "usr1",
+      "rate": "42.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms",
+      "pos1": "7.012562,31.825377,777.44",
+      "pos2": "12.496400,41.902800,0.00"
+    }
+  ]
+}

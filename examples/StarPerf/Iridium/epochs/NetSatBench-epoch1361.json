@@ -1,0 +1,56 @@
+{
+  "time": "2023-10-01T01:53:20Z",
+  "links-del": [],
+  "links-update": [
+    {
+      "endpoint1": "sat12",
+      "endpoint2": "usr2",
+      "rate": "55.0mbit",
+      "loss": "0.0",
+      "delay": "3.0ms"
+    },
+    {
+      "endpoint1": "sat12",
+      "endpoint2": "usr4",
+      "rate": "55.0mbit",
+      "loss": "0.0",
+      "delay": "4.0ms"
+    },
+    {
+      "endpoint1": "sat23",
+      "endpoint2": "usr5",
+      "rate": "48.0mbit",
+      "loss": "0.0",
+      "delay": "4.0ms"
+    },
+    {
+      "endpoint1": "sat25",
+      "endpoint2": "grd1",
+      "rate": "198.0mbit",
+      "loss": "0.0",
+      "delay": "4.0ms"
+    },
+    {
+      "endpoint1": "sat36",
+      "endpoint2": "grd1",
+      "rate": "211.0mbit",
+      "loss": "0.0",
+      "delay": "3.0ms"
+    },
+    {
+      "endpoint1": "sat48",
+      "endpoint2": "grd3",
+      "rate": "192.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    },
+    {
+      "endpoint1": "sat62",
+      "endpoint2": "grd4",
+      "rate": "185.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    }
+  ],
+  "links-add": []
+}
