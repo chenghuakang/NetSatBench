@@ -3,14 +3,14 @@
       "ssh-user": "chenghua",
       "ssh-key": "/home/chenghua/.ssh/id_rsa",
       "sat-vnet": "sat-vnet",
-      "sat-vnet-super-cidr": "192.168.0.0/16"
+      "sat-vnet-super-cidr": "192.30.0.0/16"
   },
   "workers": {
       "host-1": {
         "ip": "127.0.0.1",
-        "sat-vnet-cidr":"192.168.0.0/24",
+        "sat-vnet-cidr":"192.30.0.0/24",
         "cpu": "4",
-        "mem": "12GiB"
+        "mem": "16GiB"
       }
   }
 }
