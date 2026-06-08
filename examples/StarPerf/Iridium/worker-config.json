@@ -1,4 +1,5 @@
-  "workers-common":{
+{
+"workers-common":{
       "ssh-user": "azureuser",
       "ssh-key": "/home/azureuser/.ssh/id_rsa",
       "sat-vnet": "sat-vnet",
@@ -12,3 +13,4 @@
         "mem": "12GiB"
       }
   }
+}
