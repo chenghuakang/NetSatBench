@@ -1,6 +1,5 @@
-{
   "workers-common": {
-      "ssh-user": "chenghua",
+      "ssh-user": "azureuser",
       "ssh-key": "/home/azureuser/.ssh/id_rsa",
       "sat-vnet": "sat-vnet",
       "sat-vnet-super-cidr": "172.28.0.0/16"
@@ -10,7 +9,7 @@
         "ip": "127.0.0.1",
         "sat-vnet-cidr":"172.28.0.0/18",
         "cpu": "4",
-        "mem": "16GiB"
+        "mem": "12GiB"
       }
   }
 }
