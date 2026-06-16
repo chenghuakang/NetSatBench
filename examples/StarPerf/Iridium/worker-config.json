@@ -1,6 +1,6 @@
 {
   "workers-common": {
-      "ssh-user": "kangchenghua",
+      "ssh-user": "chenghua",
       "ssh-key": "~/.ssh/id_jump",
       "sat-vnet": "sat-vnet",
       "sat-vnet-super-cidr": "192.30.0.0/16"
