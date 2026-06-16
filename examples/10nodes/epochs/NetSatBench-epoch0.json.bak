@@ -85,12 +85,6 @@
   "run": {
     "grd1": [
       "screen -dmS iperf_test iperf3 -s"
-    ],
-    "type:gateway": [
-      "/app/grd/start-agent-grd.sh"
-    ],
-    "type:user": [
-      "/app/usr/start-agent-usr.sh"
     ]
   }
 }

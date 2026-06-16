@@ -72,13 +72,15 @@
       "/app/ping_to_csv.sh default 1740",
       "/app/ping_to_csv.sh default 1740",
       "/app/ping_to_csv.sh default 1740",
-      "/app/ping_to_csv.sh grd2 1740"
+      "/app/ping_to_csv.sh grd2 1740",
+      "bash /app/ping_to_csv.sh default 7200 1"
     ],
     "usr1": [
       "/app/ping_to_csv.sh grd4 1200",
       "/app/ping_to_csv.sh grd2 1200",
       "/app/ping_to_csv.sh grd2 1200",
       "/app/ping_to_csv.sh grd2 1200",
+      "/app/ping_to_csv.sh grd2 1200 1",
       "/app/ping_to_csv.sh grd2 1200 1",
       "/app/ping_to_csv.sh grd2 1200 1"
     ]

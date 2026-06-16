@@ -11,9 +11,5 @@
   ],
   "links-update": [],
   "links-del": [],
-  "run": {
-    "type:user": [
-      "bash /app/ping_to_csv.sh default 7200 1"
-    ]
-  }
+  "run": {}
 }

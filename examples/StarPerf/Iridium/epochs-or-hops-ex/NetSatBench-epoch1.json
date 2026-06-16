@@ -1254,9 +1254,13 @@
       "/app/grd/start-agent-grd.sh",
       "/app/grd/start-agent-grd.sh",
       "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
+      "/app/grd/start-agent-grd.sh",
       "/app/grd/start-agent-grd.sh"
     ],
     "type:user": [
+      "/app/usr/start-agent-usr.sh",
+      "/app/usr/start-agent-usr.sh",
       "/app/usr/start-agent-usr.sh",
       "/app/usr/start-agent-usr.sh",
       "/app/usr/start-agent-usr.sh",
