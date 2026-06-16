@@ -26,7 +26,7 @@
             {
               "match-key": "type",
               "match-value": "satellite",
-              "super-cidr": "172.100.0.0/16"
+              "super-cidr": "172.20.100.0/24"
             }
           ]
         }
@@ -58,7 +58,7 @@
             {
               "match-key": "type",
               "match-value": "gateway",
-              "super-cidr": "172.101.0.0/16"
+              "super-cidr": "172.20.101.0/24"
             }
           ]
         }
@@ -90,7 +90,7 @@
             {
               "match-key": "type",
               "match-value": "user",
-              "super-cidr": "172.102.0.0/16"
+              "super-cidr": "172.20.102.0/24"
             }
           ]
         }
