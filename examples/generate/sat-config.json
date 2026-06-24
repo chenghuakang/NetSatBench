@@ -1022,4 +1022,9 @@
       }
     }
   }
+"epoch-config": {
+  "epoch-dir": "examples/generate/epochs",
+  "file-pattern": "NetSatBench-epoch*.json"
+}
+  
 }
