@@ -70,6 +70,13 @@
       "rate": "10mbit",
       "loss": 0,
       "delay": "1ms"
+    },
+    {
+      "endpoint1": "sat1",
+      "endpoint2": "grd1",
+      "rate": "10mbit",
+      "loss": 0,
+      "delay": "1ms"
     }
   ],
   "links-update": [],
