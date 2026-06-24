@@ -282,12 +282,12 @@
         }
       }
     },
-    "sat1": {
+    "sat11": {
       "type": "satellite",
       "metadata": {
         "sat_config": {
-          "sat_orbit": 11,
-          "sat_num_in_orbit": 1
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 11
         },
         "shell": "shell1",
         "shell_config": {
@@ -561,12 +561,12 @@
       "mem-limit": "800MiB",
       "metadata": {
         "location": {
-          "latitude": 37.4275,
-          "longitude": -122.1697,
+          "latitude": -37.4275,
+          "longitude": 57.5806,
           "altitude": 30
         },
         "labels": {
-          "name": "stanford_ground_station"
+          "name": "180 degree opposite of user1"
         }
       },
       "L3-config": {
