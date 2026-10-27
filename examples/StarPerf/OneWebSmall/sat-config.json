@@ -1,0 +1,1162 @@
+{
+  "node-config-common": [
+    {
+      "match-key": "type",
+      "match-value": "satellite",
+      "config-common": {
+        "type": "undefined",
+        "n_antennas": 2,
+        "metadata": {},
+        "image": "msvcbench/sat-container:latest",
+        "sidecars": [],
+        "cpu-request": "100m",
+        "mem-request": "100MiB",
+        "L3-config": {
+          "enable-netem": true,
+          "enable-routing": true,
+          "routing-module": "extra.routing.single_hop_v6",
+          "routing-metadata": {},
+          "auto-assign-ips": true,
+          "auto-assign-super-cidr": [
+            {
+              "match-key": "type",
+              "match-value": "satellite",
+              "super-cidr6": "2001:db8:100::/48"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "match-key": "type",
+      "match-value": "gateway",
+      "config-common": {
+        "type": "undefined",
+        "n_antennas": 2,
+        "metadata": {},
+        "image": "msvcbench/sat-container:latest",
+        "sidecars": [],
+        "cpu-request": "100m",
+        "mem-request": "100MiB",
+        "L3-config": {
+          "enable-netem": true,
+          "enable-routing": true,
+          "routing-module": "extra.routing.single_hop_v6",
+          "routing-metadata": {},
+          "auto-assign-ips": true,
+          "auto-assign-super-cidr": [
+            {
+              "match-key": "type",
+              "match-value": "gateway",
+              "super-cidr6": "2001:db8:101::/48"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "match-key": "type",
+      "match-value": "user",
+      "config-common": {
+        "type": "undefined",
+        "n_antennas": 2,
+        "metadata": {},
+        "image": "msvcbench/sat-container:latest",
+        "sidecars": [],
+        "cpu-request": "100m",
+        "mem-request": "100MiB",
+        "L3-config": {
+          "enable-netem": true,
+          "enable-routing": true,
+          "routing-module": "extra.routing.single_hop_v6",
+          "routing-metadata": {},
+          "auto-assign-ips": true,
+          "auto-assign-super-cidr": [
+            {
+              "match-key": "type",
+              "match-value": "user",
+              "super-cidr6": "2001:db8:102::/48"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "nodes": {
+    "sat1": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 1
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat2": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 2
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat3": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 3
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat4": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 4
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat5": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 5
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat6": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 6
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat7": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 7
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat8": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 8
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat9": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 9
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat10": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 10
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat11": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 11
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat12": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 12
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat13": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 13
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat14": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 14
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat15": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 15
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat16": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 16
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat17": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 17
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat18": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 18
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat19": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 19
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat20": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 20
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat21": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 21
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat22": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 22
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat23": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 23
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat24": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 24
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat25": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 25
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat26": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 26
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat27": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 27
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat28": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 28
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat29": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 29
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat30": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 30
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat31": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 31
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat32": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 32
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat33": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 33
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat34": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 34
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat35": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 35
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat36": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 36
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat37": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 37
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat38": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 38
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat39": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 39
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat40": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 40
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat41": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 41
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat42": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 42
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat43": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 43
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat44": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 44
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat45": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 45
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat46": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 46
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat47": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 47
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat48": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 48
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "sat49": {
+      "type": "satellite",
+      "metadata": {
+        "sat_config": {
+          "sat_orbit": 1,
+          "sat_num_in_orbit": 49
+        },
+        "shell": "shell1",
+        "shell_config": {
+          "altitude": 1200,
+          "orbit_cycle": 6556,
+          "inclination": 87.9,
+          "phase_shift": 0,
+          "number_of_orbit": 1,
+          "number_of_satellite_per_orbit": 49
+        }
+      }
+    },
+    "grd1": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": 13.362289636513902,
+          "latitude": 37.913637773977435,
+          "altitude": 0.0
+        },
+        "Description": "Scanzano (Italy)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "grd2": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": 21.396971500146204,
+          "latitude": 65.34334207699979,
+          "altitude": 0.0
+        },
+        "Description": "Ojebyn (Sweden)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "grd3": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": 23.408190420645646,
+          "latitude": 42.48875195640523,
+          "altitude": 0.0
+        },
+        "Description": "Plana (Bulgaria)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "grd4": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": 15.490615165467464,
+          "latitude": 78.24871490544288,
+          "altitude": 0.0
+        },
+        "Description": "Svalbard (Norway)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "grd5": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": 13.636767797109698,
+          "latitude": 42.02097199610034,
+          "altitude": 0.0
+        },
+        "Description": "Fucino (Italy)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "grd6": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": -1.31147,
+          "latitude": 50.82253,
+          "altitude": 0.0
+        },
+        "Description": "Newport (UK)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "grd7": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": -167.5036,
+          "latitude": -41.9028,
+          "altitude": 0.0
+        },
+        "Description": "180 degree opposite usr1",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "usr1": {
+      "type": "user",
+      "metadata": {
+        "location": {
+          "longitude": 12.4964,
+          "latitude": 41.9028,
+          "altitude": 0.0
+        },
+        "Name": "Rome (Italy)",
+        "Antenna_Count": 2,
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "usr2": {
+      "type": "user",
+      "metadata": {
+        "location": {
+          "longitude": -0.1278,
+          "latitude": 51.5074,
+          "altitude": 0.0
+        },
+        "Name": "London (UK)",
+        "Antenna_Count": 2,
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "usr3": {
+      "type": "user",
+      "metadata": {
+        "location": {
+          "longitude": 2.3522,
+          "latitude": 48.8566,
+          "altitude": 0.0
+        },
+        "Name": "Paris (France)",
+        "Antenna_Count": 2,
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "usr4": {
+      "type": "user",
+      "metadata": {
+        "location": {
+          "longitude": -3.7038,
+          "latitude": 40.4168,
+          "altitude": 0.0
+        },
+        "Name": "Madrid (Spain)",
+        "Antenna_Count": 2,
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "usr5": {
+      "type": "user",
+      "metadata": {
+        "location": {
+          "longitude": 23.7275,
+          "latitude": 37.9838,
+          "altitude": 0.0
+        },
+        "Name": "Athen (Greece)",
+        "Antenna_Count": 2,
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
+    "usr6": {
+      "type": "user",
+      "metadata": {
+        "location": {
+          "longitude": 19.0402,
+          "latitude": 47.4979,
+          "altitude": 0.0
+        },
+        "Name": "Budapest (Hungary)",
+        "Antenna_Count": 2,
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    }
+  },
+  "epoch-config": {
+    "epoch-dir": "examples/StarPerf/OneWebSmall/epochs-or-delay-v6-min_orbit_hops-sub",
+    "file-pattern": "NetSatBench-epoch*.json"
+  }
+}
