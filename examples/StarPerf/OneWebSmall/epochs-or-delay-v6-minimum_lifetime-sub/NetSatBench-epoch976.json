@@ -1,0 +1,27 @@
+{
+  "time": "2023-10-01T09:42:36Z",
+  "run": {
+    "usr2": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:101::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:101::7 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:101::f 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:101::f 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:101::1b 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:101::1b 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::3 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::3 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::6b 100; extra/routing/add_ipv6_route_ll.sh vl_sat3_1 2001:db8:100::6b 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::6f 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::6f 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::73 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::73 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::77 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::77 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::7b 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::7b 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::7f 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::7f 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::83 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::83 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::87 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::87 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::8b 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::8b 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::8f 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::8f 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::93 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::93 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::97 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::97 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::9b 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::9b 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::9f 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::9f 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::a3 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::a3 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::a7 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::a7 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::ab 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::ab 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::af 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::af 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::b3 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::b3 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::b7 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::b7 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::bb 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::bb 200; sleep 1; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::bf 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::bf 200; extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::c3 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::c3 200"
+    ],
+    "usr6": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:100::6f 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::6f 200; extra/routing/add_ipv6_route_ll.sh vl_sat3_1 2001:db8:100::b 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:100::b 200; extra/routing/add_ipv6_route_ll.sh vl_sat3_1 2001:db8:102::3 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:102::3 200"
+    ],
+    "grd2": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat1_1 2001:db8:102::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:102::7 200"
+    ],
+    "sat1": [
+      "extra/routing/add_ipv6_route_ll.sh vl_usr2_1 2001:db8:102::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:102::7 200"
+    ],
+    "sat27": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat28_1 2001:db8:102::7 100; extra/routing/add_ipv6_route_ll.sh vl_sat26_1 2001:db8:102::7 200"
+    ],
+    "sat3": [
+      "extra/routing/add_ipv6_route_ll.sh vl_usr6_1 2001:db8:102::17 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:102::17 200"
+    ],
+    "usr1": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat3_1 2001:db8:102::17 100; extra/routing/add_ipv6_route_ll.sh vl_sat2_1 2001:db8:102::17 200"
+    ]
+  },
+  "links-add": []
+}
