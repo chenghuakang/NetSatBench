@@ -1,0 +1,106 @@
+{
+  "time": "2023-10-01T12:29:25Z",
+  "links-del": [
+    {
+      "endpoint1": "sat27",
+      "endpoint2": "grd6",
+      "rate": 0,
+      "loss": 0,
+      "delay": 0
+    }
+  ],
+  "links-update": [
+    {
+      "endpoint1": "sat11",
+      "endpoint2": "sat12",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.249ms"
+    },
+    {
+      "endpoint1": "sat21",
+      "endpoint2": "grd4",
+      "rate": "178.0mbit",
+      "loss": "0.0",
+      "delay": "5.728ms"
+    },
+    {
+      "endpoint1": "sat22",
+      "endpoint2": "grd4",
+      "rate": "182.0mbit",
+      "loss": "0.0",
+      "delay": "5.32ms"
+    },
+    {
+      "endpoint1": "sat23",
+      "endpoint2": "grd4",
+      "rate": "171.0mbit",
+      "loss": "0.0",
+      "delay": "6.417ms"
+    },
+    {
+      "endpoint1": "sat25",
+      "endpoint2": "grd6",
+      "rate": "170.0mbit",
+      "loss": "0.0",
+      "delay": "6.48ms"
+    },
+    {
+      "endpoint1": "sat25",
+      "endpoint2": "usr2",
+      "rate": "33.0mbit",
+      "loss": "0.0",
+      "delay": "6.57ms"
+    },
+    {
+      "endpoint1": "sat26",
+      "endpoint2": "sat27",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.241ms"
+    },
+    {
+      "endpoint1": "sat26",
+      "endpoint2": "grd6",
+      "rate": "172.0mbit",
+      "loss": "0.0",
+      "delay": "6.309ms"
+    },
+    {
+      "endpoint1": "sat26",
+      "endpoint2": "usr2",
+      "rate": "33.0mbit",
+      "loss": "0.0",
+      "delay": "6.553ms"
+    },
+    {
+      "endpoint1": "sat26",
+      "endpoint2": "usr3",
+      "rate": "30.0mbit",
+      "loss": "0.0",
+      "delay": "7.106ms"
+    },
+    {
+      "endpoint1": "sat26",
+      "endpoint2": "usr4",
+      "rate": "31.0mbit",
+      "loss": "0.0",
+      "delay": "6.993ms"
+    },
+    {
+      "endpoint1": "sat27",
+      "endpoint2": "usr4",
+      "rate": "35.0mbit",
+      "loss": "0.0",
+      "delay": "6.223ms"
+    },
+    {
+      "endpoint1": "sat28",
+      "endpoint2": "usr4",
+      "rate": "32.0mbit",
+      "loss": "0.0",
+      "delay": "6.766ms"
+    }
+  ],
+  "links-add": []
+}

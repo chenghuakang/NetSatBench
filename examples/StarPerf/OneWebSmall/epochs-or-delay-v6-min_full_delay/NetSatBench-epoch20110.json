@@ -1,0 +1,291 @@
+{
+  "time": "2023-10-01T21:57:10Z",
+  "links-del": [],
+  "links-update": [
+    {
+      "endpoint1": "sat2",
+      "endpoint2": "usr5",
+      "rate": "31.0mbit",
+      "loss": "0.0",
+      "delay": "6.890000000000001ms"
+    },
+    {
+      "endpoint1": "sat3",
+      "endpoint2": "grd1",
+      "rate": "181.0mbit",
+      "loss": "0.0",
+      "delay": "5.446ms"
+    },
+    {
+      "endpoint1": "sat3",
+      "endpoint2": "grd3",
+      "rate": "175.0mbit",
+      "loss": "0.0",
+      "delay": "5.976ms"
+    },
+    {
+      "endpoint1": "sat3",
+      "endpoint2": "grd5",
+      "rate": "172.0mbit",
+      "loss": "0.0",
+      "delay": "6.323ms"
+    },
+    {
+      "endpoint1": "sat3",
+      "endpoint2": "usr5",
+      "rate": "43.0mbit",
+      "loss": "0.0",
+      "delay": "4.82ms"
+    },
+    {
+      "endpoint1": "sat4",
+      "endpoint2": "grd1",
+      "rate": "188.0mbit",
+      "loss": "0.0",
+      "delay": "4.83ms"
+    },
+    {
+      "endpoint1": "sat4",
+      "endpoint2": "grd3",
+      "rate": "196.0mbit",
+      "loss": "0.0",
+      "delay": "4.276ms"
+    },
+    {
+      "endpoint1": "sat4",
+      "endpoint2": "grd5",
+      "rate": "188.0mbit",
+      "loss": "0.0",
+      "delay": "4.888ms"
+    },
+    {
+      "endpoint1": "sat4",
+      "endpoint2": "usr5",
+      "rate": "49.0mbit",
+      "loss": "0.0",
+      "delay": "4.057ms"
+    },
+    {
+      "endpoint1": "sat4",
+      "endpoint2": "usr6",
+      "rate": "40.0mbit",
+      "loss": "0.0",
+      "delay": "5.3500000000000005ms"
+    },
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "grd1",
+      "rate": "176.0mbit",
+      "loss": "0.0",
+      "delay": "5.872ms"
+    },
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "grd3",
+      "rate": "196.0mbit",
+      "loss": "0.0",
+      "delay": "4.291ms"
+    },
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "grd5",
+      "rate": "186.0mbit",
+      "loss": "0.0",
+      "delay": "5.0280000000000005ms"
+    },
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "usr3",
+      "rate": "32.0mbit",
+      "loss": "0.0",
+      "delay": "6.824ms"
+    },
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "usr5",
+      "rate": "41.0mbit",
+      "loss": "0.0",
+      "delay": "5.224ms"
+    },
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "usr6",
+      "rate": "49.0mbit",
+      "loss": "0.0",
+      "delay": "4.134ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "grd2",
+      "rate": "173.0mbit",
+      "loss": "0.0",
+      "delay": "6.2170000000000005ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "grd3",
+      "rate": "175.0mbit",
+      "loss": "0.0",
+      "delay": "6.009ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "grd5",
+      "rate": "169.0mbit",
+      "loss": "0.0",
+      "delay": "6.641ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "grd6",
+      "rate": "163.0mbit",
+      "loss": "0.0",
+      "delay": "7.284ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "usr2",
+      "rate": "31.0mbit",
+      "loss": "0.0",
+      "delay": "6.977ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "usr3",
+      "rate": "32.0mbit",
+      "loss": "0.0",
+      "delay": "6.832ms"
+    },
+    {
+      "endpoint1": "sat6",
+      "endpoint2": "usr6",
+      "rate": "44.0mbit",
+      "loss": "0.0",
+      "delay": "4.8100000000000005ms"
+    },
+    {
+      "endpoint1": "sat7",
+      "endpoint2": "grd2",
+      "rate": "194.0mbit",
+      "loss": "0.0",
+      "delay": "4.417ms"
+    },
+    {
+      "endpoint1": "sat7",
+      "endpoint2": "usr6",
+      "rate": "32.0mbit",
+      "loss": "0.0",
+      "delay": "6.831ms"
+    },
+    {
+      "endpoint1": "sat8",
+      "endpoint2": "grd2",
+      "rate": "197.0mbit",
+      "loss": "0.0",
+      "delay": "4.231ms"
+    },
+    {
+      "endpoint1": "sat8",
+      "endpoint2": "grd4",
+      "rate": "177.0mbit",
+      "loss": "0.0",
+      "delay": "5.814ms"
+    },
+    {
+      "endpoint1": "sat9",
+      "endpoint2": "grd2",
+      "rate": "177.0mbit",
+      "loss": "0.0",
+      "delay": "5.8180000000000005ms"
+    },
+    {
+      "endpoint1": "sat9",
+      "endpoint2": "grd4",
+      "rate": "195.0mbit",
+      "loss": "0.0",
+      "delay": "4.332ms"
+    },
+    {
+      "endpoint1": "sat10",
+      "endpoint2": "grd4",
+      "rate": "191.0mbit",
+      "loss": "0.0",
+      "delay": "4.613ms"
+    },
+    {
+      "endpoint1": "sat11",
+      "endpoint2": "grd4",
+      "rate": "171.0mbit",
+      "loss": "0.0",
+      "delay": "6.425ms"
+    },
+    {
+      "endpoint1": "sat13",
+      "endpoint2": "sat14",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.23ms"
+    },
+    {
+      "endpoint1": "sat16",
+      "endpoint2": "sat17",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.239ms"
+    },
+    {
+      "endpoint1": "sat19",
+      "endpoint2": "sat20",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.249ms"
+    },
+    {
+      "endpoint1": "sat28",
+      "endpoint2": "sat29",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.239ms"
+    },
+    {
+      "endpoint1": "sat40",
+      "endpoint2": "sat41",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.232ms"
+    },
+    {
+      "endpoint1": "sat41",
+      "endpoint2": "sat42",
+      "rate": "400.0mbit",
+      "loss": "0.0",
+      "delay": "3.236ms"
+    },
+    {
+      "endpoint1": "sat3",
+      "endpoint2": "usr1",
+      "rate": "34.0mbit",
+      "loss": "0.0",
+      "delay": "6.447ms"
+    },
+    {
+      "endpoint1": "sat30",
+      "endpoint2": "grd7",
+      "rate": "176.0mbit",
+      "loss": "0.0",
+      "delay": "5.938ms"
+    }
+  ],
+  "links-add": [
+    {
+      "endpoint1": "sat2",
+      "endpoint2": "grd1",
+      "rate": "162.0mbit",
+      "loss": "0.0",
+      "delay": "7.305ms",
+      "pos1": "21.088838,24.170510,1196.18",
+      "pos2": "13.362290,37.913638,0.00",
+      "expected_duration": 515.0
+    }
+  ]
+}
