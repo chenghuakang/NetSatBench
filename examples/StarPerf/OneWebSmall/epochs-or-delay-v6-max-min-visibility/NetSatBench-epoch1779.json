@@ -1,0 +1,9 @@
+{
+  "time": "2023-10-01T01:52:01Z",
+  "run": {
+    "grd4": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat12_1 2001:db8:100::8b 100; extra/routing/add_ipv6_route_ll.sh vl_sat11_1 2001:db8:100::8b 200"
+    ]
+  },
+  "links-add": []
+}
