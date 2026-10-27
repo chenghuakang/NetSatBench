@@ -1,0 +1,46 @@
+{
+  "time": "2023-10-01T20:47:20Z",
+  "links-del": [],
+  "links-update": [
+    {
+      "endpoint1": "sat35",
+      "endpoint2": "grd3",
+      "rate": "168.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
+    },
+    {
+      "endpoint1": "sat37",
+      "endpoint2": "grd3",
+      "rate": "164.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
+    },
+    {
+      "endpoint1": "sat39",
+      "endpoint2": "grd4",
+      "rate": "165.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
+    },
+    {
+      "endpoint1": "sat40",
+      "endpoint2": "grd4",
+      "rate": "183.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    }
+  ],
+  "links-add": [
+    {
+      "endpoint1": "sat34",
+      "endpoint2": "usr5",
+      "rate": "30.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms",
+      "pos1": "38.842586,29.362025,1196.92",
+      "pos2": "23.727500,37.983800,0.00",
+      "expected_duration": 355.0
+    }
+  ]
+}

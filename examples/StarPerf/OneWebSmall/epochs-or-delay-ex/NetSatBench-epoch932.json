@@ -1,0 +1,32 @@
+{
+  "time": "2023-10-01T01:00:25Z",
+  "links-del": [],
+  "links-update": [
+    {
+      "endpoint1": "sat33",
+      "endpoint2": "grd4",
+      "rate": "182.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    },
+    {
+      "endpoint1": "sat35",
+      "endpoint2": "grd4",
+      "rate": "180.0mbit",
+      "loss": "0.0",
+      "delay": "6.0ms"
+    }
+  ],
+  "links-add": [
+    {
+      "endpoint1": "sat32",
+      "endpoint2": "grd4",
+      "rate": "162.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms",
+      "pos1": "-19.775195,66.667348,1204.85",
+      "pos2": "15.490615,78.248715,0.00",
+      "expected_duration": 525.0
+    }
+  ]
+}

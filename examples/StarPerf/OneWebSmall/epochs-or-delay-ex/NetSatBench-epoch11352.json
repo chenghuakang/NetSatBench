@@ -1,0 +1,25 @@
+{
+  "time": "2023-10-01T13:11:50Z",
+  "links-del": [],
+  "links-update": [
+    {
+      "endpoint1": "sat4",
+      "endpoint2": "grd4",
+      "rate": "164.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
+    }
+  ],
+  "links-add": [
+    {
+      "endpoint1": "sat1",
+      "endpoint2": "grd4",
+      "rate": "162.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms",
+      "pos1": "-171.855364,86.467580,1207.10",
+      "pos2": "15.490615,78.248715,0.00",
+      "expected_duration": 415.0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "time": "2023-10-01T05:44:53Z",
+  "run": {
+    "sat31": [
+      "ip route replace 172.20.101.14 via 172.20.100.126 dev vl_sat32_1 metric 100 onlink; ip route replace 172.20.101.14 via 172.20.100.118 dev vl_sat30_1 metric 200 onlink"
+    ],
+    "sat8": [
+      "ip route replace 172.20.101.14 via 172.20.100.26 dev vl_sat7_1 metric 100 onlink; ip route replace 172.20.101.14 via 172.20.100.34 dev vl_sat9_1 metric 200 onlink"
+    ]
+  }
+}
