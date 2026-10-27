@@ -1,0 +1,17 @@
+{
+  "time": "2023-10-01T10:02:11Z",
+  "run": {
+    "grd5": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat44_1 2001:db8:101::b 100; extra/routing/add_ipv6_route_ll.sh vl_sat43_1 2001:db8:101::b 200; extra/routing/add_ipv6_route_ll.sh vl_sat44_1 2001:db8:100::af 100; extra/routing/add_ipv6_route_ll.sh vl_sat43_1 2001:db8:100::af 200; extra/routing/add_ipv6_route_ll.sh vl_sat44_1 2001:db8:102::3 100; extra/routing/add_ipv6_route_ll.sh vl_sat43_1 2001:db8:102::3 200"
+    ],
+    "grd3": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat44_1 2001:db8:101::13 100; extra/routing/add_ipv6_route_ll.sh vl_sat43_1 2001:db8:101::13 200"
+    ],
+    "sat44": [
+      "extra/routing/add_ipv6_route_ll.sh vl_grd5_1 2001:db8:101::13 100; extra/routing/add_ipv6_route_ll.sh vl_sat43_1 2001:db8:101::13 200"
+    ],
+    "usr1": [
+      "extra/routing/add_ipv6_route_ll.sh vl_sat44_1 2001:db8:101::13 100; extra/routing/add_ipv6_route_ll.sh vl_sat43_1 2001:db8:101::13 200"
+    ]
+  }
+}
