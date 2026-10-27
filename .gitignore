@@ -1,0 +1,27 @@
+.venv/
+   venv/
+   env/
+.env
+.env.local
+.env.*.local
+env/
+
+# OS / Python artifacts
+.DS_Store
+__pycache__/
+*.pyc
+
+# Data and results (not tracked)
+*.txt
+!requirements.txt
+*.png
+*.csv
+*.numbers
+*.h5
+result/
+uncleaned_results/
+checkeded data/
+test_final*/
+test_output*/
+examples/StarPerf/OneWebSmall/
+examples/StarPerf/epochs-or-delay-v6-random-sub/

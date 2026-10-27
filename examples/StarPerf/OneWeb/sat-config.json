@@ -10742,6 +10742,21 @@
         "Downlink_Ghz": 1.3
       }
     },
+    "grd6": {
+      "type": "gateway",
+      "metadata": {
+        "location": {
+          "longitude": -1.31147,
+          "latitude": 50.82253,
+          "altitude": 0.0
+        },
+        "Description": "Newport (UK)",
+        "Antenna_Count": 8,
+        "Frequency": "Ka",
+        "Uplink_Ghz": 2.1,
+        "Downlink_Ghz": 1.3
+      }
+    },
     "usr1": {
       "type": "user",
       "metadata": {

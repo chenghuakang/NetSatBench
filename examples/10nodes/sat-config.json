@@ -26,7 +26,7 @@
             {
               "match-key": "type",
               "match-value": "satellite",
-              "super-cidr": "172.100.0.0/16"
+              "super-cidr": "172.20.100.0/24"
             }
           ]
         }
@@ -58,7 +58,7 @@
             {
               "match-key": "type",
               "match-value": "gateway",
-              "super-cidr": "172.101.0.0/16"
+              "super-cidr": "172.20.101.0/24"
             }
           ]
         }
@@ -90,7 +90,7 @@
             {
               "match-key": "type",
               "match-value": "user",
-              "super-cidr": "172.102.0.0/16"
+              "super-cidr": "172.20.102.0/24"
             }
           ]
         }
@@ -120,132 +120,6 @@
         }
       }
     },
-    "sat2": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 2
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
-    "sat3": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 3
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
-    "sat4": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 4
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
-    "sat5": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 5
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
-    "sat6": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 6
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
-    "sat7": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 7
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
-    "sat8": {
-      "type": "satellite",
-      "metadata": {
-        "sat_config": {
-          "sat_orbit": 1,
-          "sat_num_in_orbit": 8
-        },
-        "shell": "shell1",
-        "shell_config": {
-          "altitude": 1200,
-          "orbit_cycle": 6556,
-          "inclination": 87.9,
-          "phase_shift": 0,
-          "number_of_orbit": 12,
-          "number_of_satellite_per_orbit": 49
-        }
-      }
-    },
     "grd1": {
       "type": "gateway",
       "n_antennas": 2,
@@ -255,12 +129,12 @@
       "mem-limit": "800MiB",
       "metadata": {
         "location": {
-          "latitude": 37.4275,
-          "longitude": -122.1697,
+          "latitude": -37.4275,
+          "longitude": 57.5806,
           "altitude": 30
         },
         "labels": {
-          "name": "stanford_ground_station"
+          "name": "180 degree opposite of user1"
         }
       },
       "L3-config": {

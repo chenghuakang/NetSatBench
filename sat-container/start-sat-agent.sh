@@ -40,6 +40,7 @@ if [[ -n "${ETCD_CA_CERT:-}" ]]; then
     fi
 fi
 
+LOCAL_ENDPOINT="${ETCD_ENDPOINT:-127.0.0.1:2379}"
 export ETCD_HOST="${ETCD_ENDPOINT%%:*}"
 export ETCD_PORT="${ETCD_ENDPOINT##*:}"
 

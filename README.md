@@ -124,7 +124,7 @@ python3 -m pip install -r requirements.txt
 ### 2. Set Etcd environment
 
 ```bash
-export ETCD_HOST="10.0.1.215"
+export ETCD_HOST="export ETCD_HOST="127.0.0.1""
 export ETCD_PORT="2379"
 ```
 
@@ -140,14 +140,14 @@ export ETCD_CA_CERT="/path/to/ca.crt"
 
 Update:
 
-- `examples/10nodes/workers-config.json`
+- `examples/10nodes/worker-config.json`
 
 Set worker IPs, SSH user/key, and worker resource/network fields.
 
 ### 4. Initialize worker environment
 
 ```bash
-python3 ./nsb.py system-init-docker --config ./examples/10nodes/workers-config.json
+python3 ./nsb.py system-init-docker --config ./examples/10nodes/worker-config.json
 ```
 
 ### 5. Initialize scenario state
