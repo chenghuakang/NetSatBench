@@ -124,7 +124,7 @@ python3 -m pip install -r requirements.txt
 ### 2. Set Etcd environment
 
 ```bash
-export ETCD_HOST="export ETCD_HOST="127.0.0.1""
+export ETCD_HOST="127.0.0.1"
 export ETCD_PORT="2379"
 ```
 
@@ -188,13 +188,13 @@ python3 ./nsb.py exec usr1 iperf3 -c grd1 -t 30 -i 2
 Upload files:
 
 ```bash
-# Upload llocal dir to usr1:/app
+# Upload local dir to usr1:/app
 python3 ./nsb.py cp mydir/ usr1:/app
 # Upload local dir to all user nodes
 python3 ./nsb.py cptype mydir/ user:/app
 ```
 
-See all commands in [CLI documentation](docs/contro-commands.md).
+See all commands in [CLI documentation](docs/control-commands.md).
 
 ---
 
@@ -216,4 +216,4 @@ python3 ./nsb.py system-cleanup-docker
 
 ## Reference
 
-- *NetSatBench: A Distributed LEO Constellation Emulator with an SRv6 Case Study* ([https://arxiv.org](https://arxiv.org/abs/2604.27854)). Code used for the paper is available in the [`/test/handover`](/test/handover`) directory.
+- *NetSatBench: A Distributed LEO Constellation Emulator with an SRv6 Case Study* ([https://arxiv.org](https://arxiv.org/abs/2604.27854)). Code used for the paper is available in the [`/test/handover`](/test/handover) directory.
