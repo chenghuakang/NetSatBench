@@ -10,7 +10,7 @@
     },
     {
       "endpoint1": "sat131",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": 0,
       "loss": 0,
       "delay": 0
@@ -33,8 +33,22 @@
     },
     {
       "endpoint1": "sat32",
+      "endpoint2": "grd6",
+      "rate": "171.0mbit",
+      "loss": "0.0",
+      "delay": "6.0ms"
+    },
+    {
+      "endpoint1": "sat32",
       "endpoint2": "usr2",
       "rate": "33.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
+    },
+    {
+      "endpoint1": "sat33",
+      "endpoint2": "grd6",
+      "rate": "170.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"
     },
@@ -68,6 +82,13 @@
     },
     {
       "endpoint1": "sat80",
+      "endpoint2": "grd6",
+      "rate": "182.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    },
+    {
+      "endpoint1": "sat80",
       "endpoint2": "usr4",
       "rate": "48.0mbit",
       "loss": "0.0",
@@ -79,6 +100,20 @@
       "rate": "38.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
+    },
+    {
+      "endpoint1": "sat82",
+      "endpoint2": "grd6",
+      "rate": "188.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    },
+    {
+      "endpoint1": "sat83",
+      "endpoint2": "grd6",
+      "rate": "166.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
     },
     {
       "endpoint1": "sat83",
@@ -138,7 +173,7 @@
     },
     {
       "endpoint1": "sat128",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "185.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"
@@ -166,7 +201,7 @@
     },
     {
       "endpoint1": "sat130",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "183.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"
@@ -182,6 +217,13 @@
       "endpoint1": "sat132",
       "endpoint2": "grd4",
       "rate": "167.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
+    },
+    {
+      "endpoint1": "sat132",
+      "endpoint2": "grd6",
+      "rate": "162.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"
     },

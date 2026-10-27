@@ -10,7 +10,7 @@
     },
     {
       "endpoint1": "sat143",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": 0,
       "loss": 0,
       "delay": 0
@@ -82,6 +82,13 @@
     },
     {
       "endpoint1": "sat45",
+      "endpoint2": "grd6",
+      "rate": "179.0mbit",
+      "loss": "0.0",
+      "delay": "6.0ms"
+    },
+    {
+      "endpoint1": "sat45",
       "endpoint2": "usr2",
       "rate": "38.0mbit",
       "loss": "0.0",
@@ -124,10 +131,17 @@
     },
     {
       "endpoint1": "sat91",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "170.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
+    },
+    {
+      "endpoint1": "sat92",
+      "endpoint2": "grd6",
+      "rate": "184.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
     },
     {
       "endpoint1": "sat92",
@@ -138,7 +152,7 @@
     },
     {
       "endpoint1": "sat93",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "172.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
@@ -163,6 +177,13 @@
       "rate": "171.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
+    },
+    {
+      "endpoint1": "sat94",
+      "endpoint2": "grd6",
+      "rate": "188.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
     },
     {
       "endpoint1": "sat94",
@@ -229,7 +250,7 @@
     },
     {
       "endpoint1": "sat139",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "166.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"
@@ -250,7 +271,7 @@
     },
     {
       "endpoint1": "sat140",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "189.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"
@@ -271,7 +292,7 @@
     },
     {
       "endpoint1": "sat141",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "199.0mbit",
       "loss": "0.0",
       "delay": "4.0ms"
@@ -292,7 +313,7 @@
     },
     {
       "endpoint1": "sat142",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "184.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"

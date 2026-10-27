@@ -23,6 +23,4 @@ uncleaned_results/
 checkeded data/
 test_final*/
 test_output*/
-examples/StarPerf/OneWebSmall/
-examples/StarPerf/epochs-or-delay-v6-random-sub/
 !docs/**

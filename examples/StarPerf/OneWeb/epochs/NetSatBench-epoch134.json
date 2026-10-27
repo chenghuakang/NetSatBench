@@ -1,7 +1,22 @@
 {
   "time": "2023-10-01T00:11:05Z",
-  "links-del": [],
+  "links-del": [
+    {
+      "endpoint1": "sat5",
+      "endpoint2": "grd6",
+      "rate": 0,
+      "loss": 0,
+      "delay": 0
+    }
+  ],
   "links-update": [
+    {
+      "endpoint1": "sat2",
+      "endpoint2": "grd6",
+      "rate": "181.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    },
     {
       "endpoint1": "sat2",
       "endpoint2": "usr2",
@@ -50,6 +65,13 @@
       "rate": "187.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"
+    },
+    {
+      "endpoint1": "sat50",
+      "endpoint2": "grd6",
+      "rate": "164.0mbit",
+      "loss": "0.0",
+      "delay": "7.0ms"
     },
     {
       "endpoint1": "sat50",
@@ -109,6 +131,13 @@
     },
     {
       "endpoint1": "sat53",
+      "endpoint2": "grd6",
+      "rate": "182.0mbit",
+      "loss": "0.0",
+      "delay": "5.0ms"
+    },
+    {
+      "endpoint1": "sat53",
       "endpoint2": "usr2",
       "rate": "41.0mbit",
       "loss": "0.0",
@@ -165,7 +194,7 @@
     },
     {
       "endpoint1": "sat98",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "163.0mbit",
       "loss": "0.0",
       "delay": "7.0ms"
@@ -179,7 +208,7 @@
     },
     {
       "endpoint1": "sat99",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "188.0mbit",
       "loss": "0.0",
       "delay": "5.0ms"
@@ -193,7 +222,7 @@
     },
     {
       "endpoint1": "sat100",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "193.0mbit",
       "loss": "0.0",
       "delay": "4.0ms"
@@ -228,7 +257,7 @@
     },
     {
       "endpoint1": "sat101",
-      "endpoint2": "grd4",
+      "endpoint2": "grd5",
       "rate": "177.0mbit",
       "loss": "0.0",
       "delay": "6.0ms"
